@@ -16,6 +16,14 @@ CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
 years = [2025, 2026]
 rounds = [1, 2, 3, 4, 5, 6]
 
+NO_OF_EXPECTED_CSV_FILES = len(years) * len(rounds)
+NO_OF_CSV_FILES = len(CSV_FILES)
+
+if NO_OF_CSV_FILES != NO_OF_EXPECTED_CSV_FILES:
+    print("The number of csv files does not match the number of expected csv files.")
+    print("Stopping the script.")
+    sys.exit(2)
+
 DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
 DB_SCHEMA       = ROOT_DIR / "schema.sql"
 
