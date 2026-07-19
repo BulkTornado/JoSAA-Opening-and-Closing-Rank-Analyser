@@ -40,5 +40,14 @@ if not DB_SCHEMA.exists():
 
 data_to_insert = []
 
+def extract_year_and_round(_file: Path) -> tuple[int, int]:
+    file_name: str = _file.name.replace(".csv", "")
+    _ = file_name.split("-")
+    _year, _rnd = int(_[1]), int(_[-1])
+
+    return _year, _rnd
+
+
 for file in CSV_FILES:
-    print(f"Processing file: {file.relative_to(ROOT_DIR)}")
+    year, rnd = extract_year_and_round(file)
+    print(f"Processing file: {file.relative_to(ROOT_DIR)} -> Year: {year}, Round: {rnd}")
