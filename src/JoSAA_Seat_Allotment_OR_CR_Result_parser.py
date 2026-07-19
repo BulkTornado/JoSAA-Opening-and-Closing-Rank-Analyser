@@ -8,19 +8,15 @@ ROOT_DIR        = Path().cwd()
 CSV_DATA_DIR    = ROOT_DIR / "data"
 
 if not CSV_DATA_DIR.exists():
-    print("Not running from root of project. Stopping the script.")
+    print("Not running from root of project.")
+    print("Stopping the script.")
     sys.exit(1)
 
 CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
+CSV_FILES.sort()
 
-years = [2025, 2026]
-rounds = [1, 2, 3, 4, 5, 6]
-
-NO_OF_EXPECTED_CSV_FILES = len(years) * len(rounds)
-NO_OF_CSV_FILES = len(CSV_FILES)
-
-if NO_OF_CSV_FILES != NO_OF_EXPECTED_CSV_FILES:
-    print("The number of csv files does not match the number of expected csv files.")
+if len(CSV_FILES) == 0:
+    print("No CSV files found.")
     print("Stopping the script.")
     sys.exit(2)
 
@@ -41,5 +37,7 @@ if not DB_SCHEMA.exists():
     print("Stopping the script.")
     sys.exit(2)
 
+data_to_insert = []
+
 for file in CSV_FILES:
-    print(file)
+    print(f"Processing file: {file.relative_to(ROOT_DIR)}")
