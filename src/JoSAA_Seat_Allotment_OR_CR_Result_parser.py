@@ -27,8 +27,9 @@ if not DB_FILE.exists():
     print(
         "Could not find database file. Ensure that the JoSAA-OR-CR.db file exists and is in the root of the project."
     )
-    print("Stopping the script.")
-    sys.exit(2)
+    print("Touch the database file.")
+    DB_FILE.touch()
+    print("Database file created. Continuing...")
 
 if not DB_SCHEMA.exists():
     print(
