@@ -1,0 +1,905 @@
+./data/JoSAA-2026-Round-1.csv:63:Indian Institute of Technology Bhubaneswar	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	151 	354P
+./data/JoSAA-2026-Round-1.csv:91:Indian Institute of Technology Bombay	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-1.csv:119:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	48P 	68P
+./data/JoSAA-2026-Round-1.csv:120:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	191P 	191P
+./data/JoSAA-2026-Round-1.csv:127:Indian Institute of Technology Bombay	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	341P 	341P
+./data/JoSAA-2026-Round-1.csv:143:Indian Institute of Technology Bombay	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	7P 	7P
+./data/JoSAA-2026-Round-1.csv:203:Indian Institute of Technology Bombay	Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	ST (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-1.csv:211:Indian Institute of Technology Bombay	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	16P 	16P
+./data/JoSAA-2026-Round-1.csv:222:Indian Institute of Technology Bombay	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	37P 	37P
+./data/JoSAA-2026-Round-1.csv:244:Indian Institute of Technology Bombay	Industrial Engineering and Operations Research (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	43P 	43P
+./data/JoSAA-2026-Round-1.csv:264:Indian Institute of Technology Bombay	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	8 	9P
+./data/JoSAA-2026-Round-1.csv:269:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-1.csv:272:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	52P 	52P
+./data/JoSAA-2026-Round-1.csv:275:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-1.csv:291:Indian Institute of Technology Mandi	B.Tech in General Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	277P 	277P
+./data/JoSAA-2026-Round-1.csv:310:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	564P 	564P
+./data/JoSAA-2026-Round-1.csv:313:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-1.csv:316:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-1.csv:323:Indian Institute of Technology Mandi	B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-1.csv:360:Indian Institute of Technology Mandi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	494P 	494P
+./data/JoSAA-2026-Round-1.csv:374:Indian Institute of Technology Mandi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	2P 	2P
+./data/JoSAA-2026-Round-1.csv:384:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	209P 	209P
+./data/JoSAA-2026-Round-1.csv:389:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	49P 	49P
+./data/JoSAA-2026-Round-1.csv:407:Indian Institute of Technology Mandi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	220P 	220P
+./data/JoSAA-2026-Round-1.csv:417:Indian Institute of Technology Mandi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	554P 	554P
+./data/JoSAA-2026-Round-1.csv:432:Indian Institute of Technology Mandi	Quantum Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	125P 	125P
+./data/JoSAA-2026-Round-1.csv:459:Indian Institute of Technology Delhi	Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	26P 	26P
+./data/JoSAA-2026-Round-1.csv:502:Indian Institute of Technology Delhi	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	520P 	520P
+./data/JoSAA-2026-Round-1.csv:513:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-1.csv:514:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	326P 	326P
+./data/JoSAA-2026-Round-1.csv:517:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	78P 	78P
+./data/JoSAA-2026-Round-1.csv:520:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-1.csv:523:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	30P 	30P
+./data/JoSAA-2026-Round-1.csv:558:Indian Institute of Technology Delhi	Design (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	88P 	88P
+./data/JoSAA-2026-Round-1.csv:575:Indian Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-1.csv:601:Indian Institute of Technology Delhi	Engineering and Computational Mechanics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	399P 	399P
+./data/JoSAA-2026-Round-1.csv:618:Indian Institute of Technology Delhi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-1.csv:644:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	13P 	13P
+./data/JoSAA-2026-Round-1.csv:647:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-1.csv:666:Indian Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-1.csv:678:Indian Institute of Technology Delhi	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	66P 	66P
+./data/JoSAA-2026-Round-1.csv:685:Indian Institute of Technology Delhi	Textile Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	212P 	212P
+./data/JoSAA-2026-Round-1.csv:713:Indian Institute of Technology Indore	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	288P 	288P
+./data/JoSAA-2026-Round-1.csv:743:Indian Institute of Technology Indore	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	25P 	25P
+./data/JoSAA-2026-Round-1.csv:751:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	64P 	64P
+./data/JoSAA-2026-Round-1.csv:754:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-1.csv:791:Indian Institute of Technology Indore	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	322P 	475P
+./data/JoSAA-2026-Round-1.csv:820:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	133P 	133P
+./data/JoSAA-2026-Round-1.csv:825:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	77P 	77P
+./data/JoSAA-2026-Round-1.csv:832:Indian Institute of Technology Kharagpur	Agricultural and Food Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	303P 	309P
+./data/JoSAA-2026-Round-1.csv:860:Indian Institute of Technology Kharagpur	Architecture (5 Years, Bachelor of Architecture) 	AI 	ST 	Female-only (including Supernumerary) 	1087P 	1087P
+./data/JoSAA-2026-Round-1.csv:875:Indian Institute of Technology Kharagpur	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	363P 	363P
+./data/JoSAA-2026-Round-1.csv:885:Indian Institute of Technology Kharagpur	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	285P 	285P
+./data/JoSAA-2026-Round-1.csv:896:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	32P 	251P
+./data/JoSAA-2026-Round-1.csv:901:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	208P 	208P
+./data/JoSAA-2026-Round-1.csv:918:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	164P 	280P
+./data/JoSAA-2026-Round-1.csv:921:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	79P 	79P
+./data/JoSAA-2026-Round-1.csv:924:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	158P 	158P
+./data/JoSAA-2026-Round-1.csv:994:Indian Institute of Technology Kharagpur	Industrial and Systems Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	147 	224P
+./data/JoSAA-2026-Round-1.csv:1010:Indian Institute of Technology Kharagpur	Instrumentation Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-1.csv:1017:Indian Institute of Technology Kharagpur	Manufacturing Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-1.csv:1043:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	87P 	87P
+./data/JoSAA-2026-Round-1.csv:1053:Indian Institute of Technology Kharagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	508P 	518P
+./data/JoSAA-2026-Round-1.csv:1074:Indian Institute of Technology Kharagpur	Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	506P 	506P
+./data/JoSAA-2026-Round-1.csv:1103:Indian Institute of Technology Hyderabad	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-1.csv:1108:Indian Institute of Technology Hyderabad	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	400P 	400P
+./data/JoSAA-2026-Round-1.csv:1122:Indian Institute of Technology Hyderabad	Biotechnology and Bioinformatics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	176P 	176P
+./data/JoSAA-2026-Round-1.csv:1132:Indian Institute of Technology Hyderabad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	140P 	140P
+./data/JoSAA-2026-Round-1.csv:1144:Indian Institute of Technology Hyderabad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	172P 	172P
+./data/JoSAA-2026-Round-1.csv:1170:Indian Institute of Technology Hyderabad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	4P 	4P
+./data/JoSAA-2026-Round-1.csv:1178:Indian Institute of Technology Hyderabad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-1.csv:1199:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	274P 	274P
+./data/JoSAA-2026-Round-1.csv:1204:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	211P 	211P
+./data/JoSAA-2026-Round-1.csv:1211:Indian Institute of Technology Hyderabad	Engineering Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	315 	109P
+./data/JoSAA-2026-Round-1.csv:1231:Indian Institute of Technology Hyderabad	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	427P 	427P
+./data/JoSAA-2026-Round-1.csv:1252:Indian Institute of Technology Hyderabad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	293 	73P
+./data/JoSAA-2026-Round-1.csv:1278:Indian Institute of Technology Jodhpur	Artificial Intelligence and Data Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	59P 	59P
+./data/JoSAA-2026-Round-1.csv:1335:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-1.csv:1340:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	155P 	155P
+./data/JoSAA-2026-Round-1.csv:1391:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	46P 	46P
+./data/JoSAA-2026-Round-1.csv:1394:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	67P 	67P
+./data/JoSAA-2026-Round-1.csv:1401:Indian Institute of Technology Kanpur	Biological Sciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	407P 	407P
+./data/JoSAA-2026-Round-1.csv:1412:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	151P 	229P
+./data/JoSAA-2026-Round-1.csv:1417:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	202P 	202P
+./data/JoSAA-2026-Round-1.csv:1434:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255 	132P
+./data/JoSAA-2026-Round-1.csv:1435:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	488P 	488P
+./data/JoSAA-2026-Round-1.csv:1438:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-1.csv:1441:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	138P 	147P
+./data/JoSAA-2026-Round-1.csv:1464:Indian Institute of Technology Kanpur	Earth Sciences (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	515P 	515P
+./data/JoSAA-2026-Round-1.csv:1498:Indian Institute of Technology Kanpur	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Female-only (including Supernumerary) 	26P 	26P
+./data/JoSAA-2026-Round-1.csv:1513:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292P 	292P
+./data/JoSAA-2026-Round-1.csv:1518:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-1.csv:1543:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	109 	106P
+./data/JoSAA-2026-Round-1.csv:1574:Indian Institute of Technology Madras	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-1.csv:1600:Indian Institute of Technology Madras	Biological Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	191P 	191P
+./data/JoSAA-2026-Round-1.csv:1610:Indian Institute of Technology Madras	Biological Science (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	482P 	482P
+./data/JoSAA-2026-Round-1.csv:1620:Indian Institute of Technology Madras	BS in Mathematics (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-1.csv:1633:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	29P 	29P
+./data/JoSAA-2026-Round-1.csv:1636:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	17P 	17P
+./data/JoSAA-2026-Round-1.csv:1639:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-1.csv:1644:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	162 	125P
+./data/JoSAA-2026-Round-1.csv:1645:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	124P 	124P
+./data/JoSAA-2026-Round-1.csv:1648:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	55P 	55P
+./data/JoSAA-2026-Round-1.csv:1651:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	57P 	57P
+./data/JoSAA-2026-Round-1.csv:1654:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-1.csv:1696:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	11P 	11P
+./data/JoSAA-2026-Round-1.csv:1699:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-1.csv:1707:Indian Institute of Technology Madras	Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	117P 	117P
+./data/JoSAA-2026-Round-1.csv:1726:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-1.csv:1731:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	116P 	116P
+./data/JoSAA-2026-Round-1.csv:1749:Indian Institute of Technology Madras	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-1.csv:1754:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	187P 	187P
+./data/JoSAA-2026-Round-1.csv:1759:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	118P 	118P
+./data/JoSAA-2026-Round-1.csv:1766:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-1.csv:1771:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	71P 	71P
+./data/JoSAA-2026-Round-1.csv:1833:Indian Institute of Technology Gandhinagar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	209P 	209P
+./data/JoSAA-2026-Round-1.csv:1951:Indian Institute of Technology Patna	B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	284P 	284P
+./data/JoSAA-2026-Round-1.csv:1957:Indian Institute of Technology Patna	B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	484P 	484P
+./data/JoSAA-2026-Round-1.csv:1966:Indian Institute of Technology Patna	B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-1.csv:1972:Indian Institute of Technology Patna	B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-1.csv:1997:Indian Institute of Technology Patna	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	540P 	540P
+./data/JoSAA-2026-Round-1.csv:2018:Indian Institute of Technology Patna	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	421P 	421P
+./data/JoSAA-2026-Round-1.csv:2051:Indian Institute of Technology Patna	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	287P 	287P
+./data/JoSAA-2026-Round-1.csv:2065:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	53P 	53P
+./data/JoSAA-2026-Round-1.csv:2068:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	35P 	35P
+./data/JoSAA-2026-Round-1.csv:2097:Indian Institute of Technology Patna	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	519P 	519P
+./data/JoSAA-2026-Round-1.csv:2127:Indian Institute of Technology Roorkee	Biosciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	123P 	123P
+./data/JoSAA-2026-Round-1.csv:2138:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237P 	323P
+./data/JoSAA-2026-Round-1.csv:2139:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	547P 	547P
+./data/JoSAA-2026-Round-1.csv:2159:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	74P 	77P
+./data/JoSAA-2026-Round-1.csv:2160:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	222P 	222P
+./data/JoSAA-2026-Round-1.csv:2163:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-1.csv:2166:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	78P 	200P
+./data/JoSAA-2026-Round-1.csv:2182:Indian Institute of Technology Roorkee	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-1.csv:2209:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	204P 	204P
+./data/JoSAA-2026-Round-1.csv:2212:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Female-only (including Supernumerary) 	47P 	47P
+./data/JoSAA-2026-Round-1.csv:2216:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	129P 	129P
+./data/JoSAA-2026-Round-1.csv:2232:Indian Institute of Technology Roorkee	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	15P 	15P
+./data/JoSAA-2026-Round-1.csv:2246:Indian Institute of Technology Roorkee	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	142P 	142P
+./data/JoSAA-2026-Round-1.csv:2288:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28 	54P
+./data/JoSAA-2026-Round-1.csv:2289:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	410P 	410P
+./data/JoSAA-2026-Round-1.csv:2294:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	98P 	98P
+./data/JoSAA-2026-Round-1.csv:2301:Indian Institute of Technology Roorkee	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	296P 	296P
+./data/JoSAA-2026-Round-1.csv:2321:Indian Institute of Technology Roorkee	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255P 	255P
+./data/JoSAA-2026-Round-1.csv:2350:Indian Institute of Technology (ISM) Dhanbad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	555P 	555P
+./data/JoSAA-2026-Round-1.csv:2361:Indian Institute of Technology (ISM) Dhanbad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	474P 	474P
+./data/JoSAA-2026-Round-1.csv:2380:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	187P 	187P
+./data/JoSAA-2026-Round-1.csv:2387:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	96P 	145P
+./data/JoSAA-2026-Round-1.csv:2390:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	73P 	73P
+./data/JoSAA-2026-Round-1.csv:2393:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	161P 	161P
+./data/JoSAA-2026-Round-1.csv:2400:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	289 	86P
+./data/JoSAA-2026-Round-1.csv:2401:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	233P 	233P
+./data/JoSAA-2026-Round-1.csv:2404:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	59P 	59P
+./data/JoSAA-2026-Round-1.csv:2407:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	54P 	54P
+./data/JoSAA-2026-Round-1.csv:2457:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	153P 	153P
+./data/JoSAA-2026-Round-1.csv:2504:Indian Institute of Technology (ISM) Dhanbad	Petroleum Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	567P 	567P
+./data/JoSAA-2026-Round-1.csv:2524:Indian Institute of Technology Ropar	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	217P 	217P
+./data/JoSAA-2026-Round-1.csv:2546:Indian Institute of Technology Ropar	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	185P 	185P
+./data/JoSAA-2026-Round-1.csv:2565:Indian Institute of Technology Ropar	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	162P 	162P
+./data/JoSAA-2026-Round-1.csv:2583:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-1.csv:2592:Indian Institute of Technology Ropar	Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	249P 	249P
+./data/JoSAA-2026-Round-1.csv:2682:Indian Institute of Technology (BHU) Varanasi	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	437P 	437P
+./data/JoSAA-2026-Round-1.csv:2693:Indian Institute of Technology (BHU) Varanasi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	517P 	517P
+./data/JoSAA-2026-Round-1.csv:2715:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-1.csv:2716:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Female-only (including Supernumerary) 	6P 	6P
+./data/JoSAA-2026-Round-1.csv:2719:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	5P 	5P
+./data/JoSAA-2026-Round-1.csv:2725:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-1.csv:2728:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	27P 	53P
+./data/JoSAA-2026-Round-1.csv:2736:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	221P 	221P
+./data/JoSAA-2026-Round-1.csv:2739:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-1.csv:2743:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	216P 	216P
+./data/JoSAA-2026-Round-1.csv:2750:Indian Institute of Technology (BHU) Varanasi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	542P 	542P
+./data/JoSAA-2026-Round-1.csv:2791:Indian Institute of Technology (BHU) Varanasi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	51P 	414P
+./data/JoSAA-2026-Round-1.csv:2842:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-1.csv:2845:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	80P 	80P
+./data/JoSAA-2026-Round-1.csv:2854:Indian Institute of Technology Guwahati	Chemical Science and Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-1.csv:2865:Indian Institute of Technology Guwahati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	499P 	499P
+./data/JoSAA-2026-Round-1.csv:2909:Indian Institute of Technology Guwahati	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	4P 	4P
+./data/JoSAA-2026-Round-1.csv:2920:Indian Institute of Technology Guwahati	Electronics and Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	19P 	19P
+./data/JoSAA-2026-Round-1.csv:2930:Indian Institute of Technology Guwahati	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	327P 	327P
+./data/JoSAA-2026-Round-1.csv:2939:Indian Institute of Technology Guwahati	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	215P 	397P
+./data/JoSAA-2026-Round-1.csv:2954:Indian Institute of Technology Guwahati	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-1.csv:2963:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	209 	127P
+./data/JoSAA-2026-Round-1.csv:2968:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	112P 	128P
+./data/JoSAA-2026-Round-1.csv:2980:Indian Institute of Technology Bhilai	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-1.csv:2988:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	266P 	266P
+./data/JoSAA-2026-Round-1.csv:3009:Indian Institute of Technology Bhilai	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	260P 	260P
+./data/JoSAA-2026-Round-1.csv:3014:Indian Institute of Technology Bhilai	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-1.csv:3048:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	122P 	122P
+./data/JoSAA-2026-Round-1.csv:3099:Indian Institute of Technology Palakkad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	45P 	45P
+./data/JoSAA-2026-Round-1.csv:3113:Indian Institute of Technology Palakkad	Data Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	62P 	62P
+./data/JoSAA-2026-Round-1.csv:3119:Indian Institute of Technology Palakkad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	351P 	351P
+./data/JoSAA-2026-Round-1.csv:3158:Indian Institute of Technology Tirupati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	531P 	531P
+./data/JoSAA-2026-Round-1.csv:3171:Indian Institute of Technology Tirupati	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-1.csv:3196:Indian Institute of Technology Tirupati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	42P 	42P
+./data/JoSAA-2026-Round-1.csv:3201:Indian Institute of Technology Tirupati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	154P 	154P
+./data/JoSAA-2026-Round-1.csv:3233:Indian Institute of Technology Jammu	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-1.csv:3240:Indian Institute of Technology Jammu	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	335P 	335P
+./data/JoSAA-2026-Round-1.csv:3274:Indian Institute of Technology Jammu	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	199P 	199P
+./data/JoSAA-2026-Round-1.csv:3299:Indian Institute of Technology Dharwad	Chemical and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	72P 	72P
+./data/JoSAA-2026-Round-1.csv:3309:Indian Institute of Technology Dharwad	Civil and Infrastructure Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	485P 	485P
+./data/JoSAA-2026-Round-1.csv:3331:Indian Institute of Technology Dharwad	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	68P 	68P
+./data/JoSAA-2026-Round-1.csv:3346:Indian Institute of Technology Dharwad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	61P 	61P
+./data/JoSAA-2026-Round-1.csv:3376:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-1.csv:3381:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	96P 	96P
+./data/JoSAA-2026-Round-1.csv:3387:Indian Institute of Technology Dharwad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	438P 	438P
+./data/JoSAA-2026-Round-1.csv:3424:Indian Institute of Science, Bangalore	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	22P 	22P
+./data/JoSAA-2026-Round-2.csv:25:Indian Institute of Technology Bhubaneswar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	260P 	260P
+./data/JoSAA-2026-Round-2.csv:63:Indian Institute of Technology Bhubaneswar	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	354P 	354P
+./data/JoSAA-2026-Round-2.csv:91:Indian Institute of Technology Bombay	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-2.csv:119:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	141P 	202P
+./data/JoSAA-2026-Round-2.csv:126:Indian Institute of Technology Bombay	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	520P 	520P
+./data/JoSAA-2026-Round-2.csv:142:Indian Institute of Technology Bombay	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	36P 	36P
+./data/JoSAA-2026-Round-2.csv:202:Indian Institute of Technology Bombay	Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	ST (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-2.csv:210:Indian Institute of Technology Bombay	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	16P 	16P
+./data/JoSAA-2026-Round-2.csv:220:Indian Institute of Technology Bombay	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	37P 	37P
+./data/JoSAA-2026-Round-2.csv:242:Indian Institute of Technology Bombay	Industrial Engineering and Operations Research (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	68P 	68P
+./data/JoSAA-2026-Round-2.csv:262:Indian Institute of Technology Bombay	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	8 	9P
+./data/JoSAA-2026-Round-2.csv:267:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-2.csv:272:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	200P 	200P
+./data/JoSAA-2026-Round-2.csv:306:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	564P 	564P
+./data/JoSAA-2026-Round-2.csv:311:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-2.csv:318:Indian Institute of Technology Mandi	B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-2.csv:368:Indian Institute of Technology Mandi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	2P 	2P
+./data/JoSAA-2026-Round-2.csv:378:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	209P 	209P
+./data/JoSAA-2026-Round-2.csv:383:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	49P 	49P
+./data/JoSAA-2026-Round-2.csv:410:Indian Institute of Technology Mandi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	554P 	554P
+./data/JoSAA-2026-Round-2.csv:451:Indian Institute of Technology Delhi	Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-2.csv:504:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-2.csv:505:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	326P 	326P
+./data/JoSAA-2026-Round-2.csv:508:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	78P 	78P
+./data/JoSAA-2026-Round-2.csv:511:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-2.csv:514:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	30P 	30P
+./data/JoSAA-2026-Round-2.csv:565:Indian Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-2.csv:591:Indian Institute of Technology Delhi	Engineering and Computational Mechanics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	399P 	399P
+./data/JoSAA-2026-Round-2.csv:608:Indian Institute of Technology Delhi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-2.csv:634:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	13P 	13P
+./data/JoSAA-2026-Round-2.csv:637:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-2.csv:656:Indian Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-2.csv:674:Indian Institute of Technology Delhi	Textile Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	212P 	212P
+./data/JoSAA-2026-Round-2.csv:731:Indian Institute of Technology Indore	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	25P 	25P
+./data/JoSAA-2026-Round-2.csv:739:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	64P 	64P
+./data/JoSAA-2026-Round-2.csv:742:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-2.csv:779:Indian Institute of Technology Indore	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	322P 	475P
+./data/JoSAA-2026-Round-2.csv:808:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	133P 	133P
+./data/JoSAA-2026-Round-2.csv:813:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	112P 	112P
+./data/JoSAA-2026-Round-2.csv:820:Indian Institute of Technology Kharagpur	Agricultural and Food Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	303P 	309P
+./data/JoSAA-2026-Round-2.csv:848:Indian Institute of Technology Kharagpur	Architecture (5 Years, Bachelor of Architecture) 	AI 	ST 	Female-only (including Supernumerary) 	1087P 	1087P
+./data/JoSAA-2026-Round-2.csv:863:Indian Institute of Technology Kharagpur	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	363P 	363P
+./data/JoSAA-2026-Round-2.csv:873:Indian Institute of Technology Kharagpur	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	285P 	285P
+./data/JoSAA-2026-Round-2.csv:884:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	251P 	365P
+./data/JoSAA-2026-Round-2.csv:905:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	164P 	280P
+./data/JoSAA-2026-Round-2.csv:908:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	79P 	79P
+./data/JoSAA-2026-Round-2.csv:911:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	210P 	210P
+./data/JoSAA-2026-Round-2.csv:947:Indian Institute of Technology Kharagpur	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-2.csv:981:Indian Institute of Technology Kharagpur	Industrial and Systems Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	147 	224P
+./data/JoSAA-2026-Round-2.csv:997:Indian Institute of Technology Kharagpur	Instrumentation Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-2.csv:1004:Indian Institute of Technology Kharagpur	Manufacturing Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-2.csv:1030:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	87P 	87P
+./data/JoSAA-2026-Round-2.csv:1033:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	123 	128P
+./data/JoSAA-2026-Round-2.csv:1040:Indian Institute of Technology Kharagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	340P 	518P
+./data/JoSAA-2026-Round-2.csv:1061:Indian Institute of Technology Kharagpur	Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	364P 	506P
+./data/JoSAA-2026-Round-2.csv:1089:Indian Institute of Technology Hyderabad	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-2.csv:1094:Indian Institute of Technology Hyderabad	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	400P 	400P
+./data/JoSAA-2026-Round-2.csv:1108:Indian Institute of Technology Hyderabad	Biotechnology and Bioinformatics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	214P 	214P
+./data/JoSAA-2026-Round-2.csv:1118:Indian Institute of Technology Hyderabad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	140P 	140P
+./data/JoSAA-2026-Round-2.csv:1130:Indian Institute of Technology Hyderabad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	172P 	172P
+./data/JoSAA-2026-Round-2.csv:1156:Indian Institute of Technology Hyderabad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-2.csv:1164:Indian Institute of Technology Hyderabad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-2.csv:1185:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	274P 	274P
+./data/JoSAA-2026-Round-2.csv:1190:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	211P 	211P
+./data/JoSAA-2026-Round-2.csv:1197:Indian Institute of Technology Hyderabad	Engineering Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	315 	109P
+./data/JoSAA-2026-Round-2.csv:1217:Indian Institute of Technology Hyderabad	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	427P 	427P
+./data/JoSAA-2026-Round-2.csv:1238:Indian Institute of Technology Hyderabad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	293 	73P
+./data/JoSAA-2026-Round-2.csv:1320:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-2.csv:1377:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-2.csv:1394:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	229P 	327P
+./data/JoSAA-2026-Round-2.csv:1415:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255 	132P
+./data/JoSAA-2026-Round-2.csv:1416:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	488P 	488P
+./data/JoSAA-2026-Round-2.csv:1419:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	80P 	80P
+./data/JoSAA-2026-Round-2.csv:1422:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	158P 	158P
+./data/JoSAA-2026-Round-2.csv:1445:Indian Institute of Technology Kanpur	Earth Sciences (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	515P 	515P
+./data/JoSAA-2026-Round-2.csv:1493:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292P 	292P
+./data/JoSAA-2026-Round-2.csv:1519:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-2.csv:1522:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	109 	166P
+./data/JoSAA-2026-Round-2.csv:1553:Indian Institute of Technology Madras	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-2.csv:1579:Indian Institute of Technology Madras	Biological Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	191P 	191P
+./data/JoSAA-2026-Round-2.csv:1589:Indian Institute of Technology Madras	Biological Science (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	482P 	482P
+./data/JoSAA-2026-Round-2.csv:1599:Indian Institute of Technology Madras	BS in Mathematics (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-2.csv:1609:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	157P 	157P
+./data/JoSAA-2026-Round-2.csv:1612:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	29P 	29P
+./data/JoSAA-2026-Round-2.csv:1615:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	17P 	17P
+./data/JoSAA-2026-Round-2.csv:1618:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-2.csv:1623:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	162 	125P
+./data/JoSAA-2026-Round-2.csv:1624:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	124P 	124P
+./data/JoSAA-2026-Round-2.csv:1627:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	55P 	55P
+./data/JoSAA-2026-Round-2.csv:1630:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	57P 	57P
+./data/JoSAA-2026-Round-2.csv:1633:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-2.csv:1675:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	11P 	11P
+./data/JoSAA-2026-Round-2.csv:1678:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-2.csv:1686:Indian Institute of Technology Madras	Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	88P 	117P
+./data/JoSAA-2026-Round-2.csv:1705:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-2.csv:1710:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	116P 	116P
+./data/JoSAA-2026-Round-2.csv:1728:Indian Institute of Technology Madras	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-2.csv:1733:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	187P 	187P
+./data/JoSAA-2026-Round-2.csv:1738:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	118P 	118P
+./data/JoSAA-2026-Round-2.csv:1745:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	180P 	180P
+./data/JoSAA-2026-Round-2.csv:1750:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-2.csv:1812:Indian Institute of Technology Gandhinagar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	209P 	209P
+./data/JoSAA-2026-Round-2.csv:1930:Indian Institute of Technology Patna	B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	284P 	284P
+./data/JoSAA-2026-Round-2.csv:1936:Indian Institute of Technology Patna	B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	484P 	484P
+./data/JoSAA-2026-Round-2.csv:1945:Indian Institute of Technology Patna	B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-2.csv:1951:Indian Institute of Technology Patna	B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-2.csv:1976:Indian Institute of Technology Patna	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	540P 	540P
+./data/JoSAA-2026-Round-2.csv:2029:Indian Institute of Technology Patna	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	287P 	287P
+./data/JoSAA-2026-Round-2.csv:2043:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	53P 	53P
+./data/JoSAA-2026-Round-2.csv:2046:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	35P 	35P
+./data/JoSAA-2026-Round-2.csv:2104:Indian Institute of Technology Roorkee	Biosciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	380P 	380P
+./data/JoSAA-2026-Round-2.csv:2115:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237P 	323P
+./data/JoSAA-2026-Round-2.csv:2135:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	74P 	190P
+./data/JoSAA-2026-Round-2.csv:2136:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	281P 	281P
+./data/JoSAA-2026-Round-2.csv:2156:Indian Institute of Technology Roorkee	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-2.csv:2183:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	204P 	204P
+./data/JoSAA-2026-Round-2.csv:2186:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Female-only (including Supernumerary) 	47P 	47P
+./data/JoSAA-2026-Round-2.csv:2190:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	129P 	129P
+./data/JoSAA-2026-Round-2.csv:2206:Indian Institute of Technology Roorkee	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	15P 	15P
+./data/JoSAA-2026-Round-2.csv:2220:Indian Institute of Technology Roorkee	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	142P 	142P
+./data/JoSAA-2026-Round-2.csv:2262:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28 	54P
+./data/JoSAA-2026-Round-2.csv:2263:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	410P 	410P
+./data/JoSAA-2026-Round-2.csv:2268:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	98P 	98P
+./data/JoSAA-2026-Round-2.csv:2275:Indian Institute of Technology Roorkee	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	296P 	296P
+./data/JoSAA-2026-Round-2.csv:2295:Indian Institute of Technology Roorkee	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255P 	255P
+./data/JoSAA-2026-Round-2.csv:2324:Indian Institute of Technology (ISM) Dhanbad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	555P 	555P
+./data/JoSAA-2026-Round-2.csv:2349:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-2.csv:2353:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	187P 	187P
+./data/JoSAA-2026-Round-2.csv:2360:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	145P 	351P
+./data/JoSAA-2026-Round-2.csv:2371:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237 	86P
+./data/JoSAA-2026-Round-2.csv:2372:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	171P 	171P
+./data/JoSAA-2026-Round-2.csv:2375:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	59P 	59P
+./data/JoSAA-2026-Round-2.csv:2378:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	54P 	54P
+./data/JoSAA-2026-Round-2.csv:2423:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	404P 	404P
+./data/JoSAA-2026-Round-2.csv:2428:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	161P 	161P
+./data/JoSAA-2026-Round-2.csv:2494:Indian Institute of Technology Ropar	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	217P 	217P
+./data/JoSAA-2026-Round-2.csv:2516:Indian Institute of Technology Ropar	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	185P 	185P
+./data/JoSAA-2026-Round-2.csv:2549:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	39P 	39P
+./data/JoSAA-2026-Round-2.csv:2552:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-2.csv:2561:Indian Institute of Technology Ropar	Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	249P 	249P
+./data/JoSAA-2026-Round-2.csv:2651:Indian Institute of Technology (BHU) Varanasi	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	437P 	437P
+./data/JoSAA-2026-Round-2.csv:2683:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-2.csv:2686:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	5P 	5P
+./data/JoSAA-2026-Round-2.csv:2689:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292 	26P
+./data/JoSAA-2026-Round-2.csv:2692:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	73P 	73P
+./data/JoSAA-2026-Round-2.csv:2695:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	27P 	53P
+./data/JoSAA-2026-Round-2.csv:2703:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	221P 	221P
+./data/JoSAA-2026-Round-2.csv:2706:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-2.csv:2709:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	128 	5P
+./data/JoSAA-2026-Round-2.csv:2716:Indian Institute of Technology (BHU) Varanasi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	542P 	542P
+./data/JoSAA-2026-Round-2.csv:2757:Indian Institute of Technology (BHU) Varanasi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	51P 	519P
+./data/JoSAA-2026-Round-2.csv:2808:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-2.csv:2829:Indian Institute of Technology Guwahati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	499P 	499P
+./data/JoSAA-2026-Round-2.csv:2873:Indian Institute of Technology Guwahati	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	4P 	4P
+./data/JoSAA-2026-Round-2.csv:2884:Indian Institute of Technology Guwahati	Electronics and Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-2.csv:2894:Indian Institute of Technology Guwahati	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	567P 	567P
+./data/JoSAA-2026-Round-2.csv:2903:Indian Institute of Technology Guwahati	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	215P 	397P
+./data/JoSAA-2026-Round-2.csv:2918:Indian Institute of Technology Guwahati	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-2.csv:2927:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	209 	189P
+./data/JoSAA-2026-Round-2.csv:2932:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	208P 	208P
+./data/JoSAA-2026-Round-2.csv:2944:Indian Institute of Technology Bhilai	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-2.csv:2952:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	266P 	266P
+./data/JoSAA-2026-Round-2.csv:2973:Indian Institute of Technology Bhilai	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	261P 	261P
+./data/JoSAA-2026-Round-2.csv:2978:Indian Institute of Technology Bhilai	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-2.csv:3012:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	122P 	122P
+./data/JoSAA-2026-Round-2.csv:3017:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-2.csv:3063:Indian Institute of Technology Palakkad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	45P 	45P
+./data/JoSAA-2026-Round-2.csv:3077:Indian Institute of Technology Palakkad	Data Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	62P 	62P
+./data/JoSAA-2026-Round-2.csv:3133:Indian Institute of Technology Tirupati	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	12P 	12P
+./data/JoSAA-2026-Round-2.csv:3193:Indian Institute of Technology Jammu	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-2.csv:3228:Indian Institute of Technology Jammu	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-2.csv:3266:Indian Institute of Technology Dharwad	Civil and Infrastructure Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	485P 	485P
+./data/JoSAA-2026-Round-2.csv:3288:Indian Institute of Technology Dharwad	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	72P 	72P
+./data/JoSAA-2026-Round-2.csv:3303:Indian Institute of Technology Dharwad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	61P 	61P
+./data/JoSAA-2026-Round-2.csv:3333:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	238P 	238P
+./data/JoSAA-2026-Round-2.csv:3343:Indian Institute of Technology Dharwad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	173P 	173P
+./data/JoSAA-2026-Round-3.csv:25:Indian Institute of Technology Bhubaneswar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	260P 	260P
+./data/JoSAA-2026-Round-3.csv:63:Indian Institute of Technology Bhubaneswar	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	354P 	354P
+./data/JoSAA-2026-Round-3.csv:91:Indian Institute of Technology Bombay	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-3.csv:119:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	141P 	202P
+./data/JoSAA-2026-Round-3.csv:126:Indian Institute of Technology Bombay	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	520P 	520P
+./data/JoSAA-2026-Round-3.csv:142:Indian Institute of Technology Bombay	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	36P 	36P
+./data/JoSAA-2026-Round-3.csv:202:Indian Institute of Technology Bombay	Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	ST (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-3.csv:210:Indian Institute of Technology Bombay	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	16P 	16P
+./data/JoSAA-2026-Round-3.csv:220:Indian Institute of Technology Bombay	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	37P 	37P
+./data/JoSAA-2026-Round-3.csv:242:Indian Institute of Technology Bombay	Industrial Engineering and Operations Research (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	68P 	68P
+./data/JoSAA-2026-Round-3.csv:262:Indian Institute of Technology Bombay	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	8 	9P
+./data/JoSAA-2026-Round-3.csv:267:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-3.csv:272:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	200P 	200P
+./data/JoSAA-2026-Round-3.csv:306:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	564P 	564P
+./data/JoSAA-2026-Round-3.csv:311:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-3.csv:318:Indian Institute of Technology Mandi	B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-3.csv:368:Indian Institute of Technology Mandi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	2P 	2P
+./data/JoSAA-2026-Round-3.csv:378:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	209P 	209P
+./data/JoSAA-2026-Round-3.csv:383:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	49P 	49P
+./data/JoSAA-2026-Round-3.csv:410:Indian Institute of Technology Mandi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	554P 	554P
+./data/JoSAA-2026-Round-3.csv:451:Indian Institute of Technology Delhi	Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-3.csv:504:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-3.csv:505:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	326P 	326P
+./data/JoSAA-2026-Round-3.csv:508:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	78P 	78P
+./data/JoSAA-2026-Round-3.csv:511:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-3.csv:514:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	30P 	30P
+./data/JoSAA-2026-Round-3.csv:565:Indian Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-3.csv:591:Indian Institute of Technology Delhi	Engineering and Computational Mechanics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	399P 	399P
+./data/JoSAA-2026-Round-3.csv:608:Indian Institute of Technology Delhi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-3.csv:634:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	13P 	13P
+./data/JoSAA-2026-Round-3.csv:637:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-3.csv:656:Indian Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-3.csv:674:Indian Institute of Technology Delhi	Textile Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	212P 	212P
+./data/JoSAA-2026-Round-3.csv:731:Indian Institute of Technology Indore	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	25P 	25P
+./data/JoSAA-2026-Round-3.csv:739:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	64P 	64P
+./data/JoSAA-2026-Round-3.csv:742:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-3.csv:779:Indian Institute of Technology Indore	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	322P 	475P
+./data/JoSAA-2026-Round-3.csv:808:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	133P 	133P
+./data/JoSAA-2026-Round-3.csv:813:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	112P 	112P
+./data/JoSAA-2026-Round-3.csv:820:Indian Institute of Technology Kharagpur	Agricultural and Food Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	303P 	309P
+./data/JoSAA-2026-Round-3.csv:848:Indian Institute of Technology Kharagpur	Architecture (5 Years, Bachelor of Architecture) 	AI 	ST 	Female-only (including Supernumerary) 	1087P 	1087P
+./data/JoSAA-2026-Round-3.csv:863:Indian Institute of Technology Kharagpur	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	363P 	363P
+./data/JoSAA-2026-Round-3.csv:873:Indian Institute of Technology Kharagpur	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	285P 	285P
+./data/JoSAA-2026-Round-3.csv:884:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	251P 	365P
+./data/JoSAA-2026-Round-3.csv:905:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	164P 	280P
+./data/JoSAA-2026-Round-3.csv:908:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	79P 	79P
+./data/JoSAA-2026-Round-3.csv:911:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	210P 	210P
+./data/JoSAA-2026-Round-3.csv:947:Indian Institute of Technology Kharagpur	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-3.csv:981:Indian Institute of Technology Kharagpur	Industrial and Systems Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	147 	224P
+./data/JoSAA-2026-Round-3.csv:997:Indian Institute of Technology Kharagpur	Instrumentation Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-3.csv:1004:Indian Institute of Technology Kharagpur	Manufacturing Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-3.csv:1030:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	87P 	87P
+./data/JoSAA-2026-Round-3.csv:1033:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	123 	128P
+./data/JoSAA-2026-Round-3.csv:1040:Indian Institute of Technology Kharagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	340P 	518P
+./data/JoSAA-2026-Round-3.csv:1061:Indian Institute of Technology Kharagpur	Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	364P 	506P
+./data/JoSAA-2026-Round-3.csv:1089:Indian Institute of Technology Hyderabad	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-3.csv:1094:Indian Institute of Technology Hyderabad	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	400P 	400P
+./data/JoSAA-2026-Round-3.csv:1108:Indian Institute of Technology Hyderabad	Biotechnology and Bioinformatics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	214P 	214P
+./data/JoSAA-2026-Round-3.csv:1118:Indian Institute of Technology Hyderabad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	140P 	140P
+./data/JoSAA-2026-Round-3.csv:1130:Indian Institute of Technology Hyderabad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	172P 	172P
+./data/JoSAA-2026-Round-3.csv:1156:Indian Institute of Technology Hyderabad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-3.csv:1164:Indian Institute of Technology Hyderabad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-3.csv:1185:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	274P 	274P
+./data/JoSAA-2026-Round-3.csv:1190:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	211P 	211P
+./data/JoSAA-2026-Round-3.csv:1197:Indian Institute of Technology Hyderabad	Engineering Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	315 	109P
+./data/JoSAA-2026-Round-3.csv:1217:Indian Institute of Technology Hyderabad	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	427P 	427P
+./data/JoSAA-2026-Round-3.csv:1238:Indian Institute of Technology Hyderabad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	293 	73P
+./data/JoSAA-2026-Round-3.csv:1320:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-3.csv:1377:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-3.csv:1394:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	229P 	327P
+./data/JoSAA-2026-Round-3.csv:1415:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255 	132P
+./data/JoSAA-2026-Round-3.csv:1416:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	488P 	488P
+./data/JoSAA-2026-Round-3.csv:1419:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	80P 	80P
+./data/JoSAA-2026-Round-3.csv:1422:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	158P 	158P
+./data/JoSAA-2026-Round-3.csv:1445:Indian Institute of Technology Kanpur	Earth Sciences (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	515P 	515P
+./data/JoSAA-2026-Round-3.csv:1493:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292P 	292P
+./data/JoSAA-2026-Round-3.csv:1519:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-3.csv:1522:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	109 	166P
+./data/JoSAA-2026-Round-3.csv:1553:Indian Institute of Technology Madras	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-3.csv:1579:Indian Institute of Technology Madras	Biological Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	191P 	191P
+./data/JoSAA-2026-Round-3.csv:1589:Indian Institute of Technology Madras	Biological Science (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	482P 	482P
+./data/JoSAA-2026-Round-3.csv:1599:Indian Institute of Technology Madras	BS in Mathematics (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-3.csv:1609:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	157P 	157P
+./data/JoSAA-2026-Round-3.csv:1612:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	29P 	29P
+./data/JoSAA-2026-Round-3.csv:1615:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	17P 	17P
+./data/JoSAA-2026-Round-3.csv:1618:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-3.csv:1623:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	162 	125P
+./data/JoSAA-2026-Round-3.csv:1624:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	124P 	124P
+./data/JoSAA-2026-Round-3.csv:1627:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	55P 	55P
+./data/JoSAA-2026-Round-3.csv:1630:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	57P 	57P
+./data/JoSAA-2026-Round-3.csv:1633:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-3.csv:1675:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	11P 	11P
+./data/JoSAA-2026-Round-3.csv:1678:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-3.csv:1686:Indian Institute of Technology Madras	Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	88P 	117P
+./data/JoSAA-2026-Round-3.csv:1705:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-3.csv:1710:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	116P 	116P
+./data/JoSAA-2026-Round-3.csv:1728:Indian Institute of Technology Madras	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-3.csv:1733:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	187P 	187P
+./data/JoSAA-2026-Round-3.csv:1738:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	118P 	118P
+./data/JoSAA-2026-Round-3.csv:1745:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	180P 	180P
+./data/JoSAA-2026-Round-3.csv:1750:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-3.csv:1812:Indian Institute of Technology Gandhinagar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	209P 	209P
+./data/JoSAA-2026-Round-3.csv:1930:Indian Institute of Technology Patna	B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	284P 	284P
+./data/JoSAA-2026-Round-3.csv:1936:Indian Institute of Technology Patna	B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	484P 	484P
+./data/JoSAA-2026-Round-3.csv:1945:Indian Institute of Technology Patna	B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-3.csv:1951:Indian Institute of Technology Patna	B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-3.csv:1976:Indian Institute of Technology Patna	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	540P 	540P
+./data/JoSAA-2026-Round-3.csv:2029:Indian Institute of Technology Patna	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	287P 	287P
+./data/JoSAA-2026-Round-3.csv:2043:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	53P 	53P
+./data/JoSAA-2026-Round-3.csv:2046:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	35P 	35P
+./data/JoSAA-2026-Round-3.csv:2104:Indian Institute of Technology Roorkee	Biosciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	380P 	380P
+./data/JoSAA-2026-Round-3.csv:2115:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237P 	323P
+./data/JoSAA-2026-Round-3.csv:2135:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	74P 	190P
+./data/JoSAA-2026-Round-3.csv:2136:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	281P 	281P
+./data/JoSAA-2026-Round-3.csv:2156:Indian Institute of Technology Roorkee	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-3.csv:2183:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	204P 	204P
+./data/JoSAA-2026-Round-3.csv:2186:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Female-only (including Supernumerary) 	47P 	47P
+./data/JoSAA-2026-Round-3.csv:2190:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	129P 	129P
+./data/JoSAA-2026-Round-3.csv:2206:Indian Institute of Technology Roorkee	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	15P 	15P
+./data/JoSAA-2026-Round-3.csv:2220:Indian Institute of Technology Roorkee	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	142P 	142P
+./data/JoSAA-2026-Round-3.csv:2262:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28 	54P
+./data/JoSAA-2026-Round-3.csv:2263:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	410P 	410P
+./data/JoSAA-2026-Round-3.csv:2268:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	98P 	98P
+./data/JoSAA-2026-Round-3.csv:2275:Indian Institute of Technology Roorkee	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	296P 	296P
+./data/JoSAA-2026-Round-3.csv:2295:Indian Institute of Technology Roorkee	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255P 	255P
+./data/JoSAA-2026-Round-3.csv:2324:Indian Institute of Technology (ISM) Dhanbad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	555P 	555P
+./data/JoSAA-2026-Round-3.csv:2349:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-3.csv:2353:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	187P 	187P
+./data/JoSAA-2026-Round-3.csv:2360:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	145P 	351P
+./data/JoSAA-2026-Round-3.csv:2371:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237 	86P
+./data/JoSAA-2026-Round-3.csv:2372:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	171P 	171P
+./data/JoSAA-2026-Round-3.csv:2375:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	59P 	59P
+./data/JoSAA-2026-Round-3.csv:2378:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	54P 	54P
+./data/JoSAA-2026-Round-3.csv:2423:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	404P 	404P
+./data/JoSAA-2026-Round-3.csv:2428:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	161P 	161P
+./data/JoSAA-2026-Round-3.csv:2494:Indian Institute of Technology Ropar	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	217P 	217P
+./data/JoSAA-2026-Round-3.csv:2516:Indian Institute of Technology Ropar	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	185P 	185P
+./data/JoSAA-2026-Round-3.csv:2549:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	39P 	39P
+./data/JoSAA-2026-Round-3.csv:2552:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-3.csv:2561:Indian Institute of Technology Ropar	Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	249P 	249P
+./data/JoSAA-2026-Round-3.csv:2651:Indian Institute of Technology (BHU) Varanasi	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	437P 	437P
+./data/JoSAA-2026-Round-3.csv:2683:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-3.csv:2686:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	5P 	5P
+./data/JoSAA-2026-Round-3.csv:2689:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292 	26P
+./data/JoSAA-2026-Round-3.csv:2692:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	73P 	73P
+./data/JoSAA-2026-Round-3.csv:2695:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	27P 	53P
+./data/JoSAA-2026-Round-3.csv:2703:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	221P 	221P
+./data/JoSAA-2026-Round-3.csv:2706:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-3.csv:2709:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	128 	5P
+./data/JoSAA-2026-Round-3.csv:2716:Indian Institute of Technology (BHU) Varanasi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	542P 	542P
+./data/JoSAA-2026-Round-3.csv:2757:Indian Institute of Technology (BHU) Varanasi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	51P 	519P
+./data/JoSAA-2026-Round-3.csv:2808:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-3.csv:2829:Indian Institute of Technology Guwahati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	499P 	499P
+./data/JoSAA-2026-Round-3.csv:2873:Indian Institute of Technology Guwahati	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	4P 	4P
+./data/JoSAA-2026-Round-3.csv:2884:Indian Institute of Technology Guwahati	Electronics and Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-3.csv:2894:Indian Institute of Technology Guwahati	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	567P 	567P
+./data/JoSAA-2026-Round-3.csv:2903:Indian Institute of Technology Guwahati	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	215P 	397P
+./data/JoSAA-2026-Round-3.csv:2918:Indian Institute of Technology Guwahati	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-3.csv:2927:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	209 	189P
+./data/JoSAA-2026-Round-3.csv:2932:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	208P 	208P
+./data/JoSAA-2026-Round-3.csv:2944:Indian Institute of Technology Bhilai	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-3.csv:2952:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	266P 	266P
+./data/JoSAA-2026-Round-3.csv:3010:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	122P 	122P
+./data/JoSAA-2026-Round-3.csv:3015:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-3.csv:3061:Indian Institute of Technology Palakkad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	45P 	45P
+./data/JoSAA-2026-Round-3.csv:3075:Indian Institute of Technology Palakkad	Data Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	62P 	62P
+./data/JoSAA-2026-Round-3.csv:3131:Indian Institute of Technology Tirupati	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	12P 	12P
+./data/JoSAA-2026-Round-3.csv:3191:Indian Institute of Technology Jammu	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-3.csv:3226:Indian Institute of Technology Jammu	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-3.csv:3264:Indian Institute of Technology Dharwad	Civil and Infrastructure Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	485P 	485P
+./data/JoSAA-2026-Round-3.csv:3286:Indian Institute of Technology Dharwad	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	72P 	72P
+./data/JoSAA-2026-Round-3.csv:3301:Indian Institute of Technology Dharwad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	61P 	61P
+./data/JoSAA-2026-Round-3.csv:3331:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	238P 	238P
+./data/JoSAA-2026-Round-3.csv:3341:Indian Institute of Technology Dharwad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	173P 	173P
+./data/JoSAA-2026-Round-4.csv:25:Indian Institute of Technology Bhubaneswar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	260P 	260P
+./data/JoSAA-2026-Round-4.csv:63:Indian Institute of Technology Bhubaneswar	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	354P 	354P
+./data/JoSAA-2026-Round-4.csv:91:Indian Institute of Technology Bombay	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-4.csv:119:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	141P 	202P
+./data/JoSAA-2026-Round-4.csv:126:Indian Institute of Technology Bombay	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	520P 	520P
+./data/JoSAA-2026-Round-4.csv:142:Indian Institute of Technology Bombay	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	36P 	36P
+./data/JoSAA-2026-Round-4.csv:202:Indian Institute of Technology Bombay	Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	ST (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-4.csv:210:Indian Institute of Technology Bombay	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	16P 	16P
+./data/JoSAA-2026-Round-4.csv:220:Indian Institute of Technology Bombay	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	37P 	37P
+./data/JoSAA-2026-Round-4.csv:242:Indian Institute of Technology Bombay	Industrial Engineering and Operations Research (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	68P 	68P
+./data/JoSAA-2026-Round-4.csv:262:Indian Institute of Technology Bombay	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	8 	9P
+./data/JoSAA-2026-Round-4.csv:267:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-4.csv:272:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	200P 	200P
+./data/JoSAA-2026-Round-4.csv:306:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	564P 	564P
+./data/JoSAA-2026-Round-4.csv:311:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-4.csv:318:Indian Institute of Technology Mandi	B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-4.csv:368:Indian Institute of Technology Mandi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	2P 	2P
+./data/JoSAA-2026-Round-4.csv:378:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	209P 	209P
+./data/JoSAA-2026-Round-4.csv:383:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	49P 	49P
+./data/JoSAA-2026-Round-4.csv:410:Indian Institute of Technology Mandi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	554P 	554P
+./data/JoSAA-2026-Round-4.csv:451:Indian Institute of Technology Delhi	Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-4.csv:503:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-4.csv:504:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	326P 	326P
+./data/JoSAA-2026-Round-4.csv:507:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	78P 	78P
+./data/JoSAA-2026-Round-4.csv:510:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-4.csv:513:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	30P 	30P
+./data/JoSAA-2026-Round-4.csv:564:Indian Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-4.csv:590:Indian Institute of Technology Delhi	Engineering and Computational Mechanics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	399P 	399P
+./data/JoSAA-2026-Round-4.csv:607:Indian Institute of Technology Delhi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-4.csv:633:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	13P 	13P
+./data/JoSAA-2026-Round-4.csv:636:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-4.csv:655:Indian Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-4.csv:673:Indian Institute of Technology Delhi	Textile Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	212P 	212P
+./data/JoSAA-2026-Round-4.csv:730:Indian Institute of Technology Indore	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	25P 	25P
+./data/JoSAA-2026-Round-4.csv:738:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	64P 	64P
+./data/JoSAA-2026-Round-4.csv:741:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-4.csv:778:Indian Institute of Technology Indore	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	322P 	475P
+./data/JoSAA-2026-Round-4.csv:807:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	133P 	133P
+./data/JoSAA-2026-Round-4.csv:812:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	112P 	112P
+./data/JoSAA-2026-Round-4.csv:819:Indian Institute of Technology Kharagpur	Agricultural and Food Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	303P 	309P
+./data/JoSAA-2026-Round-4.csv:847:Indian Institute of Technology Kharagpur	Architecture (5 Years, Bachelor of Architecture) 	AI 	ST 	Female-only (including Supernumerary) 	1087P 	1087P
+./data/JoSAA-2026-Round-4.csv:862:Indian Institute of Technology Kharagpur	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	363P 	363P
+./data/JoSAA-2026-Round-4.csv:872:Indian Institute of Technology Kharagpur	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	285P 	285P
+./data/JoSAA-2026-Round-4.csv:883:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	251P 	365P
+./data/JoSAA-2026-Round-4.csv:904:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	164P 	280P
+./data/JoSAA-2026-Round-4.csv:907:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	79P 	79P
+./data/JoSAA-2026-Round-4.csv:910:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	210P 	210P
+./data/JoSAA-2026-Round-4.csv:946:Indian Institute of Technology Kharagpur	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-4.csv:980:Indian Institute of Technology Kharagpur	Industrial and Systems Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	147 	224P
+./data/JoSAA-2026-Round-4.csv:996:Indian Institute of Technology Kharagpur	Instrumentation Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-4.csv:1003:Indian Institute of Technology Kharagpur	Manufacturing Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-4.csv:1029:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	87P 	87P
+./data/JoSAA-2026-Round-4.csv:1032:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	123 	128P
+./data/JoSAA-2026-Round-4.csv:1039:Indian Institute of Technology Kharagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	340P 	518P
+./data/JoSAA-2026-Round-4.csv:1060:Indian Institute of Technology Kharagpur	Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	364P 	506P
+./data/JoSAA-2026-Round-4.csv:1088:Indian Institute of Technology Hyderabad	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-4.csv:1093:Indian Institute of Technology Hyderabad	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	400P 	400P
+./data/JoSAA-2026-Round-4.csv:1107:Indian Institute of Technology Hyderabad	Biotechnology and Bioinformatics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	214P 	214P
+./data/JoSAA-2026-Round-4.csv:1117:Indian Institute of Technology Hyderabad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	140P 	140P
+./data/JoSAA-2026-Round-4.csv:1129:Indian Institute of Technology Hyderabad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	172P 	172P
+./data/JoSAA-2026-Round-4.csv:1155:Indian Institute of Technology Hyderabad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-4.csv:1163:Indian Institute of Technology Hyderabad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-4.csv:1184:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	274P 	274P
+./data/JoSAA-2026-Round-4.csv:1189:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	211P 	211P
+./data/JoSAA-2026-Round-4.csv:1196:Indian Institute of Technology Hyderabad	Engineering Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	315 	109P
+./data/JoSAA-2026-Round-4.csv:1216:Indian Institute of Technology Hyderabad	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	427P 	427P
+./data/JoSAA-2026-Round-4.csv:1237:Indian Institute of Technology Hyderabad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	293 	73P
+./data/JoSAA-2026-Round-4.csv:1319:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-4.csv:1376:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-4.csv:1393:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	229P 	327P
+./data/JoSAA-2026-Round-4.csv:1414:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255 	132P
+./data/JoSAA-2026-Round-4.csv:1415:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	488P 	488P
+./data/JoSAA-2026-Round-4.csv:1418:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	80P 	80P
+./data/JoSAA-2026-Round-4.csv:1421:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	158P 	158P
+./data/JoSAA-2026-Round-4.csv:1444:Indian Institute of Technology Kanpur	Earth Sciences (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	515P 	515P
+./data/JoSAA-2026-Round-4.csv:1492:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292P 	292P
+./data/JoSAA-2026-Round-4.csv:1518:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-4.csv:1521:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	109 	166P
+./data/JoSAA-2026-Round-4.csv:1552:Indian Institute of Technology Madras	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-4.csv:1578:Indian Institute of Technology Madras	Biological Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	191P 	191P
+./data/JoSAA-2026-Round-4.csv:1588:Indian Institute of Technology Madras	Biological Science (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	482P 	482P
+./data/JoSAA-2026-Round-4.csv:1598:Indian Institute of Technology Madras	BS in Mathematics (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-4.csv:1608:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	157P 	157P
+./data/JoSAA-2026-Round-4.csv:1611:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	29P 	29P
+./data/JoSAA-2026-Round-4.csv:1614:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	17P 	17P
+./data/JoSAA-2026-Round-4.csv:1617:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-4.csv:1622:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	162 	125P
+./data/JoSAA-2026-Round-4.csv:1623:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	124P 	124P
+./data/JoSAA-2026-Round-4.csv:1626:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	55P 	55P
+./data/JoSAA-2026-Round-4.csv:1629:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	57P 	57P
+./data/JoSAA-2026-Round-4.csv:1632:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-4.csv:1674:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	11P 	11P
+./data/JoSAA-2026-Round-4.csv:1677:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-4.csv:1685:Indian Institute of Technology Madras	Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	88P 	117P
+./data/JoSAA-2026-Round-4.csv:1704:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-4.csv:1709:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	116P 	116P
+./data/JoSAA-2026-Round-4.csv:1727:Indian Institute of Technology Madras	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-4.csv:1732:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	187P 	187P
+./data/JoSAA-2026-Round-4.csv:1737:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	118P 	118P
+./data/JoSAA-2026-Round-4.csv:1744:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	180P 	180P
+./data/JoSAA-2026-Round-4.csv:1749:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-4.csv:1765:Indian Institute of Technology Gandhinagar	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	6P 	6P
+./data/JoSAA-2026-Round-4.csv:1811:Indian Institute of Technology Gandhinagar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	209P 	209P
+./data/JoSAA-2026-Round-4.csv:1929:Indian Institute of Technology Patna	B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	284P 	284P
+./data/JoSAA-2026-Round-4.csv:1935:Indian Institute of Technology Patna	B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	484P 	484P
+./data/JoSAA-2026-Round-4.csv:1944:Indian Institute of Technology Patna	B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-4.csv:1950:Indian Institute of Technology Patna	B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-4.csv:1975:Indian Institute of Technology Patna	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	540P 	540P
+./data/JoSAA-2026-Round-4.csv:2028:Indian Institute of Technology Patna	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	287P 	287P
+./data/JoSAA-2026-Round-4.csv:2042:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	53P 	53P
+./data/JoSAA-2026-Round-4.csv:2045:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	35P 	35P
+./data/JoSAA-2026-Round-4.csv:2103:Indian Institute of Technology Roorkee	Biosciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	380P 	380P
+./data/JoSAA-2026-Round-4.csv:2114:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237P 	323P
+./data/JoSAA-2026-Round-4.csv:2134:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	74P 	190P
+./data/JoSAA-2026-Round-4.csv:2135:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	281P 	281P
+./data/JoSAA-2026-Round-4.csv:2155:Indian Institute of Technology Roorkee	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-4.csv:2182:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	204P 	204P
+./data/JoSAA-2026-Round-4.csv:2185:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Female-only (including Supernumerary) 	47P 	47P
+./data/JoSAA-2026-Round-4.csv:2189:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	129P 	129P
+./data/JoSAA-2026-Round-4.csv:2205:Indian Institute of Technology Roorkee	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	15P 	15P
+./data/JoSAA-2026-Round-4.csv:2219:Indian Institute of Technology Roorkee	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	142P 	142P
+./data/JoSAA-2026-Round-4.csv:2261:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28 	54P
+./data/JoSAA-2026-Round-4.csv:2262:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	410P 	410P
+./data/JoSAA-2026-Round-4.csv:2267:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	98P 	98P
+./data/JoSAA-2026-Round-4.csv:2274:Indian Institute of Technology Roorkee	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	296P 	296P
+./data/JoSAA-2026-Round-4.csv:2294:Indian Institute of Technology Roorkee	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255P 	255P
+./data/JoSAA-2026-Round-4.csv:2323:Indian Institute of Technology (ISM) Dhanbad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	555P 	555P
+./data/JoSAA-2026-Round-4.csv:2348:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-4.csv:2352:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	187P 	187P
+./data/JoSAA-2026-Round-4.csv:2359:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	145P 	351P
+./data/JoSAA-2026-Round-4.csv:2370:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237 	86P
+./data/JoSAA-2026-Round-4.csv:2371:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	171P 	171P
+./data/JoSAA-2026-Round-4.csv:2374:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	59P 	59P
+./data/JoSAA-2026-Round-4.csv:2377:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	54P 	54P
+./data/JoSAA-2026-Round-4.csv:2422:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	404P 	404P
+./data/JoSAA-2026-Round-4.csv:2427:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	161P 	161P
+./data/JoSAA-2026-Round-4.csv:2493:Indian Institute of Technology Ropar	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	217P 	217P
+./data/JoSAA-2026-Round-4.csv:2515:Indian Institute of Technology Ropar	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	185P 	185P
+./data/JoSAA-2026-Round-4.csv:2548:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	39P 	39P
+./data/JoSAA-2026-Round-4.csv:2551:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-4.csv:2560:Indian Institute of Technology Ropar	Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	249P 	249P
+./data/JoSAA-2026-Round-4.csv:2650:Indian Institute of Technology (BHU) Varanasi	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	437P 	437P
+./data/JoSAA-2026-Round-4.csv:2682:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-4.csv:2685:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	5P 	5P
+./data/JoSAA-2026-Round-4.csv:2688:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292 	26P
+./data/JoSAA-2026-Round-4.csv:2691:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	73P 	73P
+./data/JoSAA-2026-Round-4.csv:2694:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	27P 	53P
+./data/JoSAA-2026-Round-4.csv:2702:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	221P 	221P
+./data/JoSAA-2026-Round-4.csv:2705:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-4.csv:2708:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	128 	5P
+./data/JoSAA-2026-Round-4.csv:2715:Indian Institute of Technology (BHU) Varanasi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	542P 	542P
+./data/JoSAA-2026-Round-4.csv:2756:Indian Institute of Technology (BHU) Varanasi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	51P 	519P
+./data/JoSAA-2026-Round-4.csv:2807:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-4.csv:2828:Indian Institute of Technology Guwahati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	499P 	499P
+./data/JoSAA-2026-Round-4.csv:2872:Indian Institute of Technology Guwahati	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	4P 	4P
+./data/JoSAA-2026-Round-4.csv:2883:Indian Institute of Technology Guwahati	Electronics and Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-4.csv:2893:Indian Institute of Technology Guwahati	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	567P 	567P
+./data/JoSAA-2026-Round-4.csv:2902:Indian Institute of Technology Guwahati	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	215P 	397P
+./data/JoSAA-2026-Round-4.csv:2917:Indian Institute of Technology Guwahati	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-4.csv:2926:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	209 	189P
+./data/JoSAA-2026-Round-4.csv:2931:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	208P 	208P
+./data/JoSAA-2026-Round-4.csv:2943:Indian Institute of Technology Bhilai	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-4.csv:2951:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	266P 	266P
+./data/JoSAA-2026-Round-4.csv:3009:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	122P 	122P
+./data/JoSAA-2026-Round-4.csv:3014:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-4.csv:3060:Indian Institute of Technology Palakkad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	45P 	45P
+./data/JoSAA-2026-Round-4.csv:3074:Indian Institute of Technology Palakkad	Data Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	62P 	62P
+./data/JoSAA-2026-Round-4.csv:3130:Indian Institute of Technology Tirupati	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	12P 	12P
+./data/JoSAA-2026-Round-4.csv:3190:Indian Institute of Technology Jammu	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-4.csv:3225:Indian Institute of Technology Jammu	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-4.csv:3263:Indian Institute of Technology Dharwad	Civil and Infrastructure Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	485P 	485P
+./data/JoSAA-2026-Round-4.csv:3285:Indian Institute of Technology Dharwad	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	72P 	72P
+./data/JoSAA-2026-Round-4.csv:3300:Indian Institute of Technology Dharwad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	61P 	61P
+./data/JoSAA-2026-Round-4.csv:3330:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	238P 	238P
+./data/JoSAA-2026-Round-4.csv:3340:Indian Institute of Technology Dharwad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	173P 	173P
+./data/JoSAA-2026-Round-5.csv:25:Indian Institute of Technology Bhubaneswar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	260P 	260P
+./data/JoSAA-2026-Round-5.csv:63:Indian Institute of Technology Bhubaneswar	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	354P 	354P
+./data/JoSAA-2026-Round-5.csv:91:Indian Institute of Technology Bombay	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-5.csv:119:Indian Institute of Technology Bombay	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	141P 	202P
+./data/JoSAA-2026-Round-5.csv:126:Indian Institute of Technology Bombay	Chemistry (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	520P 	520P
+./data/JoSAA-2026-Round-5.csv:142:Indian Institute of Technology Bombay	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	36P 	36P
+./data/JoSAA-2026-Round-5.csv:202:Indian Institute of Technology Bombay	Electrical Engineering (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	ST (PwD) 	Gender-Neutral 	8P 	8P
+./data/JoSAA-2026-Round-5.csv:219:Indian Institute of Technology Bombay	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	37P 	37P
+./data/JoSAA-2026-Round-5.csv:241:Indian Institute of Technology Bombay	Industrial Engineering and Operations Research (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	68P 	68P
+./data/JoSAA-2026-Round-5.csv:261:Indian Institute of Technology Bombay	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	8 	9P
+./data/JoSAA-2026-Round-5.csv:266:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	141P 	141P
+./data/JoSAA-2026-Round-5.csv:271:Indian Institute of Technology Bombay	Metallurgical Engineering and Materials Science (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	200P 	200P
+./data/JoSAA-2026-Round-5.csv:305:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	564P 	564P
+./data/JoSAA-2026-Round-5.csv:310:Indian Institute of Technology Mandi	B.Tech in Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-5.csv:317:Indian Institute of Technology Mandi	B.Tech in Microelectronics & VLSI (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	160P 	160P
+./data/JoSAA-2026-Round-5.csv:367:Indian Institute of Technology Mandi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	2P 	2P
+./data/JoSAA-2026-Round-5.csv:377:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	209P 	209P
+./data/JoSAA-2026-Round-5.csv:382:Indian Institute of Technology Mandi	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	49P 	49P
+./data/JoSAA-2026-Round-5.csv:409:Indian Institute of Technology Mandi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	554P 	554P
+./data/JoSAA-2026-Round-5.csv:450:Indian Institute of Technology Delhi	Abu Dhabi Campus - Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	309P 	309P
+./data/JoSAA-2026-Round-5.csv:502:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-5.csv:503:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	326P 	326P
+./data/JoSAA-2026-Round-5.csv:506:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	78P 	78P
+./data/JoSAA-2026-Round-5.csv:509:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	44P 	44P
+./data/JoSAA-2026-Round-5.csv:512:Indian Institute of Technology Delhi	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	30P 	30P
+./data/JoSAA-2026-Round-5.csv:563:Indian Institute of Technology Delhi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-5.csv:589:Indian Institute of Technology Delhi	Engineering and Computational Mechanics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	399P 	399P
+./data/JoSAA-2026-Round-5.csv:606:Indian Institute of Technology Delhi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-5.csv:632:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	13P 	13P
+./data/JoSAA-2026-Round-5.csv:635:Indian Institute of Technology Delhi	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-5.csv:654:Indian Institute of Technology Delhi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-5.csv:672:Indian Institute of Technology Delhi	Textile Technology (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	212P 	212P
+./data/JoSAA-2026-Round-5.csv:729:Indian Institute of Technology Indore	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	25P 	25P
+./data/JoSAA-2026-Round-5.csv:737:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	64P 	64P
+./data/JoSAA-2026-Round-5.csv:740:Indian Institute of Technology Indore	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-5.csv:777:Indian Institute of Technology Indore	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	322P 	475P
+./data/JoSAA-2026-Round-5.csv:806:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	133P 	133P
+./data/JoSAA-2026-Round-5.csv:811:Indian Institute of Technology Kharagpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	112P 	112P
+./data/JoSAA-2026-Round-5.csv:818:Indian Institute of Technology Kharagpur	Agricultural and Food Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	303P 	303P
+./data/JoSAA-2026-Round-5.csv:846:Indian Institute of Technology Kharagpur	Architecture (5 Years, Bachelor of Architecture) 	AI 	ST 	Female-only (including Supernumerary) 	1087P 	1087P
+./data/JoSAA-2026-Round-5.csv:861:Indian Institute of Technology Kharagpur	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	363P 	363P
+./data/JoSAA-2026-Round-5.csv:871:Indian Institute of Technology Kharagpur	Biotechnology and Biochemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	285P 	285P
+./data/JoSAA-2026-Round-5.csv:882:Indian Institute of Technology Kharagpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	251P 	365P
+./data/JoSAA-2026-Round-5.csv:903:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	164P 	280P
+./data/JoSAA-2026-Round-5.csv:908:Indian Institute of Technology Kharagpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	210P 	210P
+./data/JoSAA-2026-Round-5.csv:944:Indian Institute of Technology Kharagpur	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	14P 	14P
+./data/JoSAA-2026-Round-5.csv:978:Indian Institute of Technology Kharagpur	Industrial and Systems Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	147 	224P
+./data/JoSAA-2026-Round-5.csv:994:Indian Institute of Technology Kharagpur	Instrumentation Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-5.csv:1001:Indian Institute of Technology Kharagpur	Manufacturing Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-5.csv:1027:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	87P 	87P
+./data/JoSAA-2026-Round-5.csv:1030:Indian Institute of Technology Kharagpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	123 	128P
+./data/JoSAA-2026-Round-5.csv:1037:Indian Institute of Technology Kharagpur	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	340P 	518P
+./data/JoSAA-2026-Round-5.csv:1058:Indian Institute of Technology Kharagpur	Ocean Engineering and Naval Architecture (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	364P 	506P
+./data/JoSAA-2026-Round-5.csv:1086:Indian Institute of Technology Hyderabad	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	3P 	3P
+./data/JoSAA-2026-Round-5.csv:1091:Indian Institute of Technology Hyderabad	Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	400P 	400P
+./data/JoSAA-2026-Round-5.csv:1114:Indian Institute of Technology Hyderabad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	140P 	140P
+./data/JoSAA-2026-Round-5.csv:1126:Indian Institute of Technology Hyderabad	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	172P 	172P
+./data/JoSAA-2026-Round-5.csv:1152:Indian Institute of Technology Hyderabad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-5.csv:1160:Indian Institute of Technology Hyderabad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-5.csv:1181:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	274P 	274P
+./data/JoSAA-2026-Round-5.csv:1186:Indian Institute of Technology Hyderabad	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	211P 	211P
+./data/JoSAA-2026-Round-5.csv:1193:Indian Institute of Technology Hyderabad	Engineering Science (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	315 	109P
+./data/JoSAA-2026-Round-5.csv:1213:Indian Institute of Technology Hyderabad	Materials Science and Metallurgical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	427P 	427P
+./data/JoSAA-2026-Round-5.csv:1234:Indian Institute of Technology Hyderabad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	293 	73P
+./data/JoSAA-2026-Round-5.csv:1316:Indian Institute of Technology Jodhpur	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	139P 	139P
+./data/JoSAA-2026-Round-5.csv:1373:Indian Institute of Technology Kanpur	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	106P 	106P
+./data/JoSAA-2026-Round-5.csv:1390:Indian Institute of Technology Kanpur	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	229P 	327P
+./data/JoSAA-2026-Round-5.csv:1411:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255 	132P
+./data/JoSAA-2026-Round-5.csv:1412:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	488P 	488P
+./data/JoSAA-2026-Round-5.csv:1415:Indian Institute of Technology Kanpur	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	80P 	80P
+./data/JoSAA-2026-Round-5.csv:1440:Indian Institute of Technology Kanpur	Earth Sciences (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	515P 	515P
+./data/JoSAA-2026-Round-5.csv:1488:Indian Institute of Technology Kanpur	Materials Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292P 	292P
+./data/JoSAA-2026-Round-5.csv:1514:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	40P 	40P
+./data/JoSAA-2026-Round-5.csv:1517:Indian Institute of Technology Kanpur	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	109 	166P
+./data/JoSAA-2026-Round-5.csv:1548:Indian Institute of Technology Madras	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	6P 	6P
+./data/JoSAA-2026-Round-5.csv:1574:Indian Institute of Technology Madras	Biological Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	191P 	191P
+./data/JoSAA-2026-Round-5.csv:1584:Indian Institute of Technology Madras	Biological Science (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	531P 	531P
+./data/JoSAA-2026-Round-5.csv:1594:Indian Institute of Technology Madras	BS in Mathematics (4 Years, Bachelor of Science) 	AI 	OPEN (PwD) 	Gender-Neutral 	63P 	63P
+./data/JoSAA-2026-Round-5.csv:1604:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	157P 	157P
+./data/JoSAA-2026-Round-5.csv:1607:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	29P 	29P
+./data/JoSAA-2026-Round-5.csv:1610:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	17P 	17P
+./data/JoSAA-2026-Round-5.csv:1613:Indian Institute of Technology Madras	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-5.csv:1618:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	162 	125P
+./data/JoSAA-2026-Round-5.csv:1619:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	124P 	124P
+./data/JoSAA-2026-Round-5.csv:1622:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	55P 	55P
+./data/JoSAA-2026-Round-5.csv:1625:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	158P 	158P
+./data/JoSAA-2026-Round-5.csv:1628:Indian Institute of Technology Madras	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-5.csv:1670:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	11P 	11P
+./data/JoSAA-2026-Round-5.csv:1673:Indian Institute of Technology Madras	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-5.csv:1681:Indian Institute of Technology Madras	Engineering Design (5 Years, Bachelor and Master of Technology (Dual Degree)) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	117P 	117P
+./data/JoSAA-2026-Round-5.csv:1693:Indian Institute of Technology Madras	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	57P 	57P
+./data/JoSAA-2026-Round-5.csv:1700:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	219P 	219P
+./data/JoSAA-2026-Round-5.csv:1705:Indian Institute of Technology Madras	Instrumentation and Biomedical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	116P 	116P
+./data/JoSAA-2026-Round-5.csv:1723:Indian Institute of Technology Madras	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-5.csv:1728:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	187P 	187P
+./data/JoSAA-2026-Round-5.csv:1733:Indian Institute of Technology Madras	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	118P 	118P
+./data/JoSAA-2026-Round-5.csv:1740:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	180P 	180P
+./data/JoSAA-2026-Round-5.csv:1745:Indian Institute of Technology Madras	Naval Architecture and Ocean Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	167P 	167P
+./data/JoSAA-2026-Round-5.csv:1761:Indian Institute of Technology Gandhinagar	Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	217P 	217P
+./data/JoSAA-2026-Round-5.csv:1807:Indian Institute of Technology Gandhinagar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	209P 	209P
+./data/JoSAA-2026-Round-5.csv:1925:Indian Institute of Technology Patna	B.Tech (Electrical and Electronics Engineering) - MBA (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	284P 	284P
+./data/JoSAA-2026-Round-5.csv:1931:Indian Institute of Technology Patna	B.Tech (Electronics and Communication Engineering) - MBA in Hospital and Healthcare Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	484P 	484P
+./data/JoSAA-2026-Round-5.csv:1940:Indian Institute of Technology Patna	B.Tech (Mathematics and Computing) - MBA in Digital Business Management (IIM Bodh Gaya) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-5.csv:1946:Indian Institute of Technology Patna	B.Tech (Mechanical Engineering) - MBA (IIM Mumbai) (5 Years, Bachelor of Technology and MBA (Dual Degree)) 	AI 	OPEN (PwD) 	Gender-Neutral 	102P 	102P
+./data/JoSAA-2026-Round-5.csv:1971:Indian Institute of Technology Patna	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	540P 	540P
+./data/JoSAA-2026-Round-5.csv:2024:Indian Institute of Technology Patna	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	287P 	287P
+./data/JoSAA-2026-Round-5.csv:2038:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	53P 	53P
+./data/JoSAA-2026-Round-5.csv:2041:Indian Institute of Technology Patna	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	35P 	35P
+./data/JoSAA-2026-Round-5.csv:2098:Indian Institute of Technology Roorkee	Biosciences and Bioengineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	380P 	380P
+./data/JoSAA-2026-Round-5.csv:2109:Indian Institute of Technology Roorkee	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237P 	323P
+./data/JoSAA-2026-Round-5.csv:2129:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	74P 	190P
+./data/JoSAA-2026-Round-5.csv:2130:Indian Institute of Technology Roorkee	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	281P 	281P
+./data/JoSAA-2026-Round-5.csv:2150:Indian Institute of Technology Roorkee	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	1P 	1P
+./data/JoSAA-2026-Round-5.csv:2177:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	204P 	204P
+./data/JoSAA-2026-Round-5.csv:2183:Indian Institute of Technology Roorkee	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	129P 	129P
+./data/JoSAA-2026-Round-5.csv:2199:Indian Institute of Technology Roorkee	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	15P 	15P
+./data/JoSAA-2026-Round-5.csv:2213:Indian Institute of Technology Roorkee	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	142P 	142P
+./data/JoSAA-2026-Round-5.csv:2255:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	28 	54P
+./data/JoSAA-2026-Round-5.csv:2256:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	410P 	410P
+./data/JoSAA-2026-Round-5.csv:2261:Indian Institute of Technology Roorkee	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	98P 	98P
+./data/JoSAA-2026-Round-5.csv:2268:Indian Institute of Technology Roorkee	Metallurgical and Materials Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	296P 	296P
+./data/JoSAA-2026-Round-5.csv:2288:Indian Institute of Technology Roorkee	Production and Industrial Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	255P 	255P
+./data/JoSAA-2026-Round-5.csv:2317:Indian Institute of Technology (ISM) Dhanbad	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	555P 	555P
+./data/JoSAA-2026-Round-5.csv:2342:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-5.csv:2346:Indian Institute of Technology (ISM) Dhanbad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	187P 	187P
+./data/JoSAA-2026-Round-5.csv:2353:Indian Institute of Technology (ISM) Dhanbad	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	145P 	351P
+./data/JoSAA-2026-Round-5.csv:2364:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	237 	86P
+./data/JoSAA-2026-Round-5.csv:2365:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	171P 	171P
+./data/JoSAA-2026-Round-5.csv:2368:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	59P 	59P
+./data/JoSAA-2026-Round-5.csv:2371:Indian Institute of Technology (ISM) Dhanbad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	54P 	54P
+./data/JoSAA-2026-Round-5.csv:2416:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	404P 	404P
+./data/JoSAA-2026-Round-5.csv:2421:Indian Institute of Technology (ISM) Dhanbad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	161P 	161P
+./data/JoSAA-2026-Round-5.csv:2487:Indian Institute of Technology Ropar	Artificial Intelligence and Data Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	312P 	312P
+./data/JoSAA-2026-Round-5.csv:2509:Indian Institute of Technology Ropar	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	185P 	185P
+./data/JoSAA-2026-Round-5.csv:2542:Indian Institute of Technology Ropar	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	416P 	416P
+./data/JoSAA-2026-Round-5.csv:2553:Indian Institute of Technology Ropar	Electrical Engineering (Integrated Circuit Design and Technology) (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	249P 	249P
+./data/JoSAA-2026-Round-5.csv:2579:Indian Institute of Technology Ropar	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	240 	39P
+./data/JoSAA-2026-Round-5.csv:2643:Indian Institute of Technology (BHU) Varanasi	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	437P 	437P
+./data/JoSAA-2026-Round-5.csv:2675:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	SC (PwD) 	Gender-Neutral 	10P 	10P
+./data/JoSAA-2026-Round-5.csv:2678:Indian Institute of Technology (BHU) Varanasi	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	ST (PwD) 	Gender-Neutral 	5P 	5P
+./data/JoSAA-2026-Round-5.csv:2681:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	292 	51P
+./data/JoSAA-2026-Round-5.csv:2684:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	73P 	73P
+./data/JoSAA-2026-Round-5.csv:2687:Indian Institute of Technology (BHU) Varanasi	Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	27P 	53P
+./data/JoSAA-2026-Round-5.csv:2695:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	221P 	221P
+./data/JoSAA-2026-Round-5.csv:2698:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	24P 	24P
+./data/JoSAA-2026-Round-5.csv:2701:Indian Institute of Technology (BHU) Varanasi	Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	128 	5P
+./data/JoSAA-2026-Round-5.csv:2708:Indian Institute of Technology (BHU) Varanasi	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	542P 	542P
+./data/JoSAA-2026-Round-5.csv:2749:Indian Institute of Technology (BHU) Varanasi	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	252P 	519P
+./data/JoSAA-2026-Round-5.csv:2800:Indian Institute of Technology Guwahati	Chemical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-5.csv:2821:Indian Institute of Technology Guwahati	Civil Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	499P 	499P
+./data/JoSAA-2026-Round-5.csv:2865:Indian Institute of Technology Guwahati	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Female-only (including Supernumerary) 	4P 	4P
+./data/JoSAA-2026-Round-5.csv:2876:Indian Institute of Technology Guwahati	Electronics and Electrical Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	28P 	28P
+./data/JoSAA-2026-Round-5.csv:2886:Indian Institute of Technology Guwahati	Energy Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	567P 	567P
+./data/JoSAA-2026-Round-5.csv:2895:Indian Institute of Technology Guwahati	Engineering Physics (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	215P 	397P
+./data/JoSAA-2026-Round-5.csv:2910:Indian Institute of Technology Guwahati	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	21P 	21P
+./data/JoSAA-2026-Round-5.csv:2919:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	209 	189P
+./data/JoSAA-2026-Round-5.csv:2924:Indian Institute of Technology Guwahati	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	208P 	208P
+./data/JoSAA-2026-Round-5.csv:2936:Indian Institute of Technology Bhilai	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	9P 	9P
+./data/JoSAA-2026-Round-5.csv:2943:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-5.csv:2944:Indian Institute of Technology Bhilai	Data Science and Artificial Intelligence (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	266P 	266P
+./data/JoSAA-2026-Round-5.csv:3002:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Female-only (including Supernumerary) 	122P 	122P
+./data/JoSAA-2026-Round-5.csv:3007:Indian Institute of Technology Goa	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	41P 	41P
+./data/JoSAA-2026-Round-5.csv:3053:Indian Institute of Technology Palakkad	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	45P 	45P
+./data/JoSAA-2026-Round-5.csv:3067:Indian Institute of Technology Palakkad	Data Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	62P 	62P
+./data/JoSAA-2026-Round-5.csv:3123:Indian Institute of Technology Tirupati	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	EWS (PwD) 	Gender-Neutral 	12P 	12P
+./data/JoSAA-2026-Round-5.csv:3183:Indian Institute of Technology Jammu	Computer Science and Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	85P 	85P
+./data/JoSAA-2026-Round-5.csv:3218:Indian Institute of Technology Jammu	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	559P 	559P
+./data/JoSAA-2026-Round-5.csv:3256:Indian Institute of Technology Dharwad	Civil and Infrastructure Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	485P 	485P
+./data/JoSAA-2026-Round-5.csv:3278:Indian Institute of Technology Dharwad	Electrical and Electronics Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	72P 	72P
+./data/JoSAA-2026-Round-5.csv:3293:Indian Institute of Technology Dharwad	Electronics and Communication Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	61P 	61P
+./data/JoSAA-2026-Round-5.csv:3323:Indian Institute of Technology Dharwad	Mathematics and Computing (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	238P 	238P
+./data/JoSAA-2026-Round-5.csv:3333:Indian Institute of Technology Dharwad	Mechanical Engineering (4 Years, Bachelor of Technology) 	AI 	OPEN (PwD) 	Gender-Neutral 	173P 	173P
+./data/JoSAA-2026-Round-5.csv:3348:Indian Institute of Science, Bangalore	Aerospace Engineering (4 Years, Bachelor of Technology) 	AI 	OBC-NCL (PwD) 	Gender-Neutral 	74P 	74P
