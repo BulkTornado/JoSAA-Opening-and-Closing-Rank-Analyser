@@ -29,7 +29,8 @@ then
     printf '%s\n' "$trailing_p" \
         > "./notes/finding-trailing-p-${year}"
 
-    echo "Found ${p_count} lines with trailing P data for the year ${year}"
+    echo "Found ${p_count} lines with trailing P data for the year ${year}."
+    echo "Search result saved in ./notes/finding-trailing-p-${year}"
 else
     echo "The CSV data for year ${year} has no trailing P"
 fi
@@ -41,7 +42,8 @@ then
     printf '%s\n' "$trailing_zero" \
         > "./notes/finding-trailing-zero-${year}"
 
-    echo "Found ${zero_count} lines with trailing zero data for the year ${year}"
+    echo "Found ${zero_count} lines with trailing zero data for the year ${year}."
+    echo "Search result saved ./notes/finding-trailing-zero-${year}"
 else
     echo "The CSV data for year ${year} has no trailing zero"
 fi
