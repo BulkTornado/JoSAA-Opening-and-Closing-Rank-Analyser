@@ -1,0 +1,47 @@
+#!/usr/bin/env bash
+
+read -p "Year: " year
+
+if [ ! -e ./data/JoSAA-${year}-Round-1.csv ]; then
+	echo "Could not find CSV data for the input year...";
+	exit 1;
+fi;
+
+csv_files=("./data/JoSAA-${year}-Round-"{1..6}".csv")
+
+trailing_p=$(awk -F '\t' \
+    '$((NF-1)) ~ /^[0-9]+P$/ || $NF ~ /^[0-9]+P$/ {
+        print FILENAME ":" FNR ":" $0
+    }' \
+    "${csv_files[@]}"
+)
+
+trailing_zero=$(awk -F '\t' \
+    '$((NF-1)) ~ /^[0-9]+\.0$/ || $NF ~ /^[0-9]+\.0$/ {
+        print FILENAME ":" FNR ":" $0
+    }' \
+    "${csv_files[@]}"
+)
+if [ -n "$trailing_p" ];
+then
+    p_count=$(printf '%s\n' "$trailing_p" | wc -l)
+
+    printf '%s\n' "$trailing_p" \
+        > "./notes/finding-trailing-p-${year}"
+
+    echo "Found ${p_count} lines with trailing P data for the year ${year}"
+else
+    echo "The CSV data for year ${year} has no trailing P"
+fi
+
+if [ -n "$trailing_zero" ];
+then
+    zero_count=$(printf '%s\n' "$trailing_zero" | wc -l)
+
+    printf '%s\n' "$trailing_zero" \
+        > "./notes/finding-trailing-zero-${year}"
+
+    echo "Found ${zero_count} lines with trailing zero data for the year ${year}"
+else
+    echo "The CSV data for year ${year} has no trailing zero"
+fi
