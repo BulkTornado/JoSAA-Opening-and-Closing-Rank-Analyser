@@ -1,5 +1,4 @@
 import csv
-import sys
 from pathlib import Path
 from typing import Any
 
@@ -10,7 +9,7 @@ CSV_DATA_DIR    = ROOT_DIR / "data"
 if not CSV_DATA_DIR.exists():
     print("Not running from root of project.")
     print("Stopping the script.")
-    sys.exit(1)
+    exit(1)
 
 CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
@@ -18,24 +17,7 @@ CSV_FILES.sort()
 if len(CSV_FILES) == 0:
     print("No CSV files found.")
     print("Stopping the script.")
-    sys.exit(2)
-
-DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
-DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
-
-if not DB_FILE.exists():
-    print("Could not find database file. Creating JoSAA-OR-CR.db file in the root of the project.")
-    DB_FILE.touch()
-    print("Database file created. Continuing...")
-
-if not DB_SCHEMA_FILE.exists():
-    print(
-        "Could not find database schema. Ensure that the schema.sql file exists and is in the root of the project."
-    )
-    print("Stopping the script.")
-    sys.exit(2)
-
-DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
+    exit(2)
 
 full_csv_data: list[list[int | Any]] = []
 
@@ -63,9 +45,7 @@ for file in CSV_FILES:
 
             full_csv_data.append(row_to_insert)
 
-    print(f"Year: {year}, Round: {rnd} completed.")
-
-    print(len(full_csv_data))
+    print(f"Year: {year:04}, Round: {rnd:02} completed. Total count till now: {len(full_csv_data)}")
 
     # print(full_csv_data[-1])
 

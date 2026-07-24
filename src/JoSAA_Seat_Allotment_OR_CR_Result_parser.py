@@ -1,7 +1,7 @@
 import csv
 import sqlite3
-import sys
 from pathlib import Path
+from typing import Any
 
 ROOT_DIR        = Path().cwd()
 
@@ -10,7 +10,7 @@ CSV_DATA_DIR    = ROOT_DIR / "data"
 if not CSV_DATA_DIR.exists():
     print("Not running from root of project.")
     print("Stopping the script.")
-    sys.exit(1)
+    exit(1)
 
 CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
@@ -18,27 +18,33 @@ CSV_FILES.sort()
 if len(CSV_FILES) == 0:
     print("No CSV files found.")
     print("Stopping the script.")
-    sys.exit(2)
+    exit(2)
 
 DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
-DB_SCHEMA       = ROOT_DIR / "schema.sql"
+DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
 
 if not DB_FILE.exists():
-    print(
-        "Could not find database file. Ensure that the JoSAA-OR-CR.db file exists and is in the root of the project."
-    )
-    print("Touch the database file.")
+    print("Could not find database file. Creating JoSAA-OR-CR.db file in the root of the project.")
     DB_FILE.touch()
     print("Database file created. Continuing...")
 
-if not DB_SCHEMA.exists():
+if not DB_SCHEMA_FILE.exists():
     print(
         "Could not find database schema. Ensure that the schema.sql file exists and is in the root of the project."
     )
     print("Stopping the script.")
-    sys.exit(2)
+    exit(2)
 
-data_to_insert = []
+# Connecting to the database
+cxn = sqlite3.connect(DB_FILE)
+cur = cxn.cursor()
+
+DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
+
+cur.execute(DB_SCHEMA)
+cxn.commit()
+
+full_csv_data: list[list[int | Any]] = []
 
 def extract_year_and_round(_file: Path) -> tuple[int, int]:
     file_name: str = _file.name.replace(".csv", "")
@@ -49,5 +55,33 @@ def extract_year_and_round(_file: Path) -> tuple[int, int]:
 
 
 for file in CSV_FILES:
+    file: Path = file.relative_to(ROOT_DIR)
+    print(f"Processing file: ./{file}...")
     year, rnd = extract_year_and_round(file)
-    print(f"Processing file: {file.relative_to(ROOT_DIR)} -> Year: {year}, Round: {rnd}")
+
+    with open(file, encoding="utf-8") as csv_file:
+        csv_reader = csv.reader(csv_file, delimiter="\t")
+
+        for row in csv_reader:
+            row[-2] = int(row[-2])
+            row[-1] = int(row[-1])
+
+            row_to_insert = [year, rnd, *row]
+
+            full_csv_data.append(row_to_insert)
+
+    print(f"Year: {year}, Round: {rnd} completed.")
+
+    print()
+
+
+# Insert into DB
+cur.execute(f"""
+INSERT INTO JoSAA_OR_CR
+VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)
+""", full_csv_data)
+cxn.commit()
+
+print(f"OR-CR Result parser script finished successfully. Total rows inserted: {len(full_csv_data)}")
+
+cxn.close()
