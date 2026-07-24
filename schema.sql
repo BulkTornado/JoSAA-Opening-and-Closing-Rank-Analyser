@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS JoSAA_Seat_Allotment(
+CREATE TABLE IF NOT EXISTS JoSAA_OR_CR(
     year INT,
     round INT,
     institute_name TEXT,
