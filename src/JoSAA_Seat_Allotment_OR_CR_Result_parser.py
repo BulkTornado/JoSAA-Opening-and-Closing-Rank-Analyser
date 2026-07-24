@@ -44,7 +44,7 @@ DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
 cur.execute(DB_SCHEMA)
 cxn.commit()
 
-full_csv_data: list[list[int | Any]] = []
+full_csv_data: list[tuple[int, int, Any]] = []
 
 def extract_year_and_round(_file: Path) -> tuple[int, int]:
     file_name: str = _file.name.replace(".csv", "")
@@ -66,7 +66,7 @@ for file in CSV_FILES:
             row[-2] = int(row[-2])
             row[-1] = int(row[-1])
 
-            row_to_insert = [year, rnd, *row]
+            row_to_insert = (year, rnd, *row)
 
             full_csv_data.append(row_to_insert)
 
@@ -76,10 +76,12 @@ for file in CSV_FILES:
 
 
 # Insert into DB
-cur.execute(f"""
-INSERT INTO JoSAA_OR_CR
-VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)
-""", full_csv_data)
+for row in full_csv_data:
+    cur.execute(f"""
+        INSERT INTO JoSAA_OR_CR
+        VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, row
+    )
 cxn.commit()
 
 print(f"OR-CR Result parser script finished successfully. Total rows inserted: {len(full_csv_data)}")
