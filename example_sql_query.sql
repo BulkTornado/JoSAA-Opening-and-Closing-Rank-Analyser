@@ -1,0 +1,1 @@
+SELECT * FROM JoSAA_OR_CR WHERE {rank} BETWEEN opening_rank AND closing_rank;
