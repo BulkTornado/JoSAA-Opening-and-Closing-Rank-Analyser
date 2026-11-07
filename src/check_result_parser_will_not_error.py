@@ -1,4 +1,29 @@
+"""
+This script is intended to be run before running the actual result parser.
+
+Run this script from the project root. It reads every CSV in ``data/``,
+extracts the year and round from each filename, converts each row to a
+``JoSAAORCRRow``, and inserts the resulting values into an in-memory SQLite
+database using the project's schema.
+
+A successful run shows that the current files can be parsed and their rows
+inserted into SQLite with the current schema, without modifying
+``JoSAA-OR-CR.db``. It does not verify the persistent database's state or
+guarantee that filesystem operations in the real parser will succeed.
+
+Note that this script attempts to follow all the steps exactly as it would
+occur in the result parser, except the database being a sqlite in-memory
+database. However, it should not create any deviation from a real run of
+the result parser script, except that it cannot replicate the duplicate
+handling that will be implemented in the real parser in the future.
+
+TODO clean up the last paragraph when I have implemented the duplicate
+    handling in the parser script.
+"""
+
+import atexit
 import csv
+import sqlite3
 from pathlib import Path
 
 from josaa_or_cr_row import JoSAAORCRRow
@@ -20,6 +45,26 @@ if len(CSV_FILES) == 0:
     print("Stopping the script.")
     exit(2)
 
+DB_CXN          = sqlite3.connect(":memory:")
+
+@atexit.register
+def close_db_cxn():
+    DB_CXN.close()
+
+DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
+
+if not DB_SCHEMA_FILE.exists():
+    print(
+        "Could not find database schema. Ensure that the schema.sql file exists and is in the root of the project."
+    )
+    print("Stopping the script.")
+    exit(2)
+
+DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
+
+DB_CXN.execute(DB_SCHEMA)
+DB_CXN.commit()
+
 full_csv_data: list[JoSAAORCRRow] = []
 
 def extract_year_and_round(_file: Path) -> tuple[int, int]:
@@ -39,10 +84,30 @@ for file in CSV_FILES:
         csv_reader = csv.reader(csv_file, delimiter="\t")
 
         for row in csv_reader:
-            full_csv_data.append(JoSAAORCRRow.from_csv_row(year, rnd, row))
+            full_csv_data.append(
+                JoSAAORCRRow.from_csv_row(year, rnd, row)
+            )
 
     print(f"Year: {year:04}, Round: {rnd:02} completed. Total count till now: {len(full_csv_data)}")
 
-    # print(full_csv_data[-1])
-
     print()
+
+# Insert into DB
+for row in full_csv_data:
+    DB_CXN.execute(f"""
+        INSERT INTO JoSAA_OR_CR
+        VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, row.to_sql_parameters()
+    )
+DB_CXN.commit()
+
+row_count_in_list: int = len(full_csv_data)
+row_count_in_db:   int = DB_CXN.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''').fetchone()[0]
+
+if row_count_in_list != row_count_in_db:
+    print("Something went wrong.")
+    print(f"Row count in list: {row_count_in_list}")
+    print(f"Row count in db: {row_count_in_db}")
+    exit(3)
+
+print(f"OR-CR Result parser script finished successfully. Total rows inserted: {row_count_in_db}")
