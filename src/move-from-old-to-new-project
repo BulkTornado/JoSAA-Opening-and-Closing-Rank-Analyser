@@ -1,9 +1,0 @@
-declare -i round=1
-
-for file in $(find $HOME/Projects/Python/JoSAA-Rank-Analyser-2025 -maxdepth 1 -type f -printf "%p\n" | grep -i "Result_ALL");
-do
-	cp $file "$HOME/Projects/Python/JoSAA-Opening-and-Closing-Rank-Analyser/data/JoSAA-2025_Round_${round}_Result_ALL.csv"
-	# round
-	round=$((round+1))
-done
-
