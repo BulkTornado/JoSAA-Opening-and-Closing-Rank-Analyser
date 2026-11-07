@@ -3,8 +3,7 @@ import csv
 import sqlite3
 from pathlib import Path
 
-import rich
-
+from console import console, console_err
 from josaa_or_cr_row import JoSAAORCRRow
 
 ROOT_DIR        = Path().cwd()
@@ -12,31 +11,31 @@ ROOT_DIR        = Path().cwd()
 CSV_DATA_DIR    = ROOT_DIR / "data"
 
 if not CSV_DATA_DIR.exists():
-    print("Not running from root of project.")
-    print("Stopping the script.")
+    console_err.print("[red]Not running from root of project.[/red]")
+    console_err.print("Stopping the script.")
     exit(1)
 
 CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
 
 if len(CSV_FILES) == 0:
-    print("No CSV files found.")
-    print("Stopping the script.")
+    console_err.print("No CSV files found.")
+    console_err.print("Stopping the script.")
     exit(2)
 
 DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
 DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
 
 if not DB_FILE.exists():
-    print("Could not find database file. Creating JoSAA-OR-CR.db file in the root of the project.")
+    console.print("Could not find database file. Creating JoSAA-OR-CR.db file in the root of the project.", style="dim bold cyan")
     DB_FILE.touch()
-    print("Database file created. Continuing...")
+    console.print("Database file created. Continuing...", style="dim bold cyan")
 
 if not DB_SCHEMA_FILE.exists():
-    print(
+    console_err.print(
         "Could not find database schema. Ensure that the schema.sql file exists and is in the root of the project."
     )
-    print("Stopping the script.")
+    console_err.print("Stopping the script.")
     exit(2)
 
 # Connecting to the database

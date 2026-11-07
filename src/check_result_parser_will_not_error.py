@@ -26,8 +26,7 @@ import csv
 import sqlite3
 from pathlib import Path
 
-import rich
-
+from console import console, console_err
 from josaa_or_cr_row import JoSAAORCRRow
 
 ROOT_DIR        = Path().cwd()
@@ -35,16 +34,16 @@ ROOT_DIR        = Path().cwd()
 CSV_DATA_DIR    = ROOT_DIR / "data"
 
 if not CSV_DATA_DIR.exists():
-    print("Not running from root of project.")
-    print("Stopping the script.")
+    console_err.print("Not running from root of project.")
+    console_err.print("Stopping the script.")
     exit(1)
 
 CSV_FILES: list[Path] = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
 
 if len(CSV_FILES) == 0:
-    print("No CSV files found.")
-    print("Stopping the script.")
+    console_err.print("No CSV files found.")
+    console_err.print("Stopping the script.")
     exit(2)
 
 DB_CXN          = sqlite3.connect(":memory:")
@@ -56,10 +55,10 @@ def close_db_cxn():
 DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
 
 if not DB_SCHEMA_FILE.exists():
-    print(
+    console_err.print(
         "Could not find database schema. Ensure that the schema.sql file exists and is in the root of the project."
     )
-    print("Stopping the script.")
+    console_err.print("Stopping the script.")
     exit(2)
 
 DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
@@ -76,10 +75,10 @@ def extract_year_and_round(_file: Path) -> tuple[int, int]:
 
     return _year, _rnd
 
+console.print("\nParsing through the CSV files...\n", style="green")
 
 for file in CSV_FILES:
     file: Path = file.relative_to(ROOT_DIR)
-    print(f"Processing file: ./{file}...")
     year, rnd = extract_year_and_round(file)
 
     with open(file, encoding="utf-8") as csv_file:
@@ -90,11 +89,11 @@ for file in CSV_FILES:
                 JoSAAORCRRow.from_csv_row(year, rnd, row)
             )
 
-    print(f"Year: {year:04}, Round: {rnd:02} completed. Total count till now: {len(full_csv_data)}")
+    console.print(f"\t./{file} -> {year:04}, {rnd:02} completed. Total: {len(full_csv_data):10}, Diff: +{"...":>10}", style="dim")
 
-    print()
+console.print()
 
-# Insert into DB
+# Attempting insert into DB
 for row in full_csv_data:
     DB_CXN.execute(f"""
         INSERT INTO JoSAA_OR_CR
@@ -107,9 +106,9 @@ row_count_in_list: int = len(full_csv_data)
 row_count_in_db:   int = DB_CXN.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''').fetchone()[0]
 
 if row_count_in_list != row_count_in_db:
-    print("Something went wrong.")
-    print(f"Row count in list: {row_count_in_list}")
-    print(f"Row count in db: {row_count_in_db}")
+    console_err.print("Something went wrong.")
+    console_err.print(f"Row count in list: {row_count_in_list}")
+    console_err.print(f"Row count in db: {row_count_in_db}")
     exit(3)
 
-print(f"OR-CR Result parser script finished successfully. Total rows inserted: {row_count_in_db}")
+console.print(f"OR-CR Result parser script finished successfully. Total rows inserted: {row_count_in_db}\n", style="bold green")
