@@ -1,3 +1,4 @@
+import atexit
 import csv
 import sqlite3
 from pathlib import Path
@@ -40,6 +41,10 @@ if not DB_SCHEMA_FILE.exists():
 cxn = sqlite3.connect(DB_FILE)
 cur = cxn.cursor()
 
+@atexit.register
+def close_db_cxn():
+    cxn.close()
+
 DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
 
 cur.execute(DB_SCHEMA)
@@ -81,5 +86,3 @@ for row in full_csv_data:
 cxn.commit()
 
 print(f"OR-CR Result parser script finished successfully. Total rows inserted: {len(full_csv_data)}")
-
-cxn.close()
