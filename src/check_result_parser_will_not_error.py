@@ -1,6 +1,7 @@
 import csv
 from pathlib import Path
-from typing import Any
+
+from josaa_or_cr_row import JoSAAORCRRow
 
 ROOT_DIR        = Path().cwd()
 
@@ -11,7 +12,7 @@ if not CSV_DATA_DIR.exists():
     print("Stopping the script.")
     exit(1)
 
-CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
+CSV_FILES: list[Path] = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
 
 if len(CSV_FILES) == 0:
@@ -19,7 +20,7 @@ if len(CSV_FILES) == 0:
     print("Stopping the script.")
     exit(2)
 
-full_csv_data: list[list[int | Any]] = []
+full_csv_data: list[JoSAAORCRRow] = []
 
 def extract_year_and_round(_file: Path) -> tuple[int, int]:
     file_name: str = _file.name.replace(".csv", "")
@@ -38,12 +39,7 @@ for file in CSV_FILES:
         csv_reader = csv.reader(csv_file, delimiter="\t")
 
         for row in csv_reader:
-            row[-2] = int(row[-2])
-            row[-1] = int(row[-1])
-
-            row_to_insert = [year, rnd, *row]
-
-            full_csv_data.append(row_to_insert)
+            full_csv_data.append(JoSAAORCRRow.from_csv_row(year, rnd, row))
 
     print(f"Year: {year:04}, Round: {rnd:02} completed. Total count till now: {len(full_csv_data)}")
 

@@ -1,7 +1,8 @@
 import csv
 import sqlite3
 from pathlib import Path
-from typing import Any
+
+from josaa_or_cr_row import JoSAAORCRRow
 
 ROOT_DIR        = Path().cwd()
 
@@ -44,7 +45,7 @@ DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
 cur.execute(DB_SCHEMA)
 cxn.commit()
 
-full_csv_data: list[tuple[int, int, Any]] = []
+full_csv_data: list[JoSAAORCRRow] = []
 
 def extract_year_and_round(_file: Path) -> tuple[int, int]:
     file_name: str = _file.name.replace(".csv", "")
@@ -63,12 +64,7 @@ for file in CSV_FILES:
         csv_reader = csv.reader(csv_file, delimiter="\t")
 
         for row in csv_reader:
-            row[-2] = int(row[-2])
-            row[-1] = int(row[-1])
-
-            row_to_insert = (year, rnd, *row)
-
-            full_csv_data.append(row_to_insert)
+            full_csv_data.append(JoSAAORCRRow.from_csv_row(year, rnd, row))
 
     print(f"Year: {year}, Round: {rnd} completed.")
 
@@ -80,7 +76,7 @@ for row in full_csv_data:
     cur.execute(f"""
         INSERT INTO JoSAA_OR_CR
         VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)
-        """, row
+        """, row.to_sql_parameters()
     )
 cxn.commit()
 
