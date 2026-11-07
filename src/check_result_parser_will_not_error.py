@@ -26,6 +26,8 @@ import csv
 import sqlite3
 from pathlib import Path
 
+import rich
+
 from josaa_or_cr_row import JoSAAORCRRow
 
 ROOT_DIR        = Path().cwd()
