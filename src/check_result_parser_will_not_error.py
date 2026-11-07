@@ -14,7 +14,11 @@ guarantee that filesystem operations in the real parser will succeed.
 Note that this script attempts to follow all the steps exactly as it would
 occur in the result parser, except the database being a sqlite in-memory
 database. However, it should not create any deviation from a real run of
-the result parser script.
+the result parser script, except that it cannot replicate the duplicate
+handling that will be implemented in the real parser in the future.
+
+TODO clean up the last paragraph when I have implemented the duplicate
+    handling in the parser script.
 """
 
 import atexit
