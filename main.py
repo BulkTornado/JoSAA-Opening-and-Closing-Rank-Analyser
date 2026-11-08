@@ -6,7 +6,7 @@ from pathlib import Path
 
 # TODO remove tabulate dependency by using the
 #   Table class from the Rich package
-import tabulate
+from rich.table import Table
 
 from src.console import console
 
@@ -37,7 +37,11 @@ def main():
     cur.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''')
     _ = cur.fetchall()
     # TODO implement rich.table and thus remove the tabulate dependency
-    console.print(tabulate.tabulate(_, headers=["COUNT(*)"]), style="bold green")
+    # console.print(tabulate.tabulate(_, headers=["COUNT(*)"]), style="bold green")
+    table = Table(show_header=True, header_style="bold green")
+    table.add_column("COUNT(*)", style="info")
+    table.add_row(str(_[0][0]))
+    console.print(table)
 
 
 
