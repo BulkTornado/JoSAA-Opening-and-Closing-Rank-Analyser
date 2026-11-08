@@ -1,7 +1,11 @@
+# TODO add docstring
+
 import atexit
 import sqlite3
 from pathlib import Path
 
+# TODO remove tabulate dependency by using the
+#   Table class from the Rich package
 import tabulate
 
 from src.console import console
@@ -32,6 +36,7 @@ def main():
 
     cur.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''')
     _ = cur.fetchall()
+    # TODO implement rich.table and thus remove the tabulate dependency
     console.print(tabulate.tabulate(_, headers=["COUNT(*)"]), style="bold green")
 
 
