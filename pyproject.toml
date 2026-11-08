@@ -7,5 +7,4 @@ requires-python = "==3.14.8"
 dependencies = [
     "pytest>=9.2.0",
     "rich>=15.0.0",
-    "tabulate>=0.10.0",
 ]
