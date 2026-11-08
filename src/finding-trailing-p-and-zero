@@ -1,3 +1,7 @@
+: '
+TODO Add docstring
+'
+
 #!/usr/bin/env bash
 
 read -p "Year: " year

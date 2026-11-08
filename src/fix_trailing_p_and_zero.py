@@ -19,11 +19,12 @@ if not CSV_DATA_DIR.exists():
         "Stopping the script.",
         style="danger"
     )
-    exit(1)
+    exit(1) # TODO document exit code
 
 # TODO implement proper YEAR input validation
 YEAR = int(input("Year: "))
 
+# TODO cleanup
 # CSV_FILES       = list(CSV_DATA_DIR.glob(f"*{YEAR}*.csv"))
 # CSV_FILES.sort()
 CSV_FILES       = sorted(
@@ -36,7 +37,7 @@ if len(CSV_FILES) == 0:
         "Stopping the script.",
         style="danger"
     )
-    exit(2)
+    exit(2) # TODO document exit code
 
 # matches digits followed by P at end
 pattern_trailing_p = re.compile(r'^(\d+)P$')
@@ -67,6 +68,7 @@ for file in CSV_FILES:
 
             writer.writerow(row)
 
+    # TODO cleanup
     # overwrite original file
     # os.replace(tmp_fp, fp)
     tmp_fp.replace(fp)
