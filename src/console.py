@@ -1,4 +1,11 @@
 from rich.console import Console
+from rich.theme import Theme
 
-console = Console()
-console_err = Console(stderr=True, style="bold red underline")
+theme = Theme({
+    "info": "bold cyan",
+    "success": "bold green",
+    "warning": "bold yellow",
+    "danger": "bold red",
+})
+
+console = Console(theme=theme)

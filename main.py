@@ -2,18 +2,21 @@ import atexit
 import sqlite3
 from pathlib import Path
 
-from rich.table import Table
 import tabulate
 
-from src.console import console, console_err
+from src.console import console
 
 ROOT_DIR = Path().cwd()
 
 DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
 
 if not DB_FILE.exists():
-    console_err.print("Could not find the database file. Ensure that the JoSAA-OR-CR.db file exists and is in the root of the project.")
-    console_err.print("Stopping the script...")
+    console.print(
+        "Could not find the database file.\n"
+        "Ensure that the JoSAA-OR-CR.db file exists and is in the root of the project.\n"
+        "Stopping the script...",
+        style="danger"
+    )
     exit(2)
 
 # Connecting to the database
@@ -25,7 +28,7 @@ def close_db_cxn():
     cxn.close()
 
 def main():
-    console.print("Hello from josaa-opening-and-closing-rank-analyser!", style="bold italic")
+    console.print("Hello from josaa-opening-and-closing-rank-analyser!", style="bold italic #ffa500")
 
     cur.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''')
     _ = cur.fetchall()
