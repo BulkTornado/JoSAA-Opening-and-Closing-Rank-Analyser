@@ -21,6 +21,8 @@ TODO clean up the last paragraph when I have implemented the duplicate
     handling in the parser script.
 """
 
+# TODO change script name
+
 import atexit
 import csv
 import sqlite3
@@ -39,7 +41,7 @@ if not CSV_DATA_DIR.exists():
         "Stopping the script.",
         style="danger"
     )
-    exit(1)
+    exit(1) # TODO document exit code
 
 CSV_FILES: list[Path] = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
@@ -50,7 +52,7 @@ if len(CSV_FILES) == 0:
         "Stopping the script.",
         style="danger"
     )
-    exit(2)
+    exit(2) # TODO document exit code
 
 DB_CXN          = sqlite3.connect(":memory:")
 
@@ -66,7 +68,7 @@ if not DB_SCHEMA_FILE.exists():
         "Stopping the script.",
         style="danger"
     )
-    exit(2)
+    exit(2) # TODO document exit code
 
 DB_SCHEMA: str = DB_SCHEMA_FILE.read_text()
 
@@ -125,7 +127,7 @@ if row_count_in_list != row_count_in_db:
         f"Row count in db: {row_count_in_db}",
         style="danger"
     )
-    exit(3)
+    exit(3) # TODO document exit code
 
 console.print(
     f"OR-CR Result parser script finished successfully.\n"

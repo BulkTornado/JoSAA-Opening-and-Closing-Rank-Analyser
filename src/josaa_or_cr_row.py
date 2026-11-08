@@ -1,6 +1,9 @@
 from dataclasses import dataclass
 
-
+# TODO come up with a better name for the data class.
+# TODO look into dataclass, and think of how the AI
+#   implemented it, and try to reason why this shouldn't
+#   be refactored to smth written and understood by me.
 @dataclass
 class JoSAAORCRRow:
     year: int

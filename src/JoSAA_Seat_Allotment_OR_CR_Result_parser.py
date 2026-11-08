@@ -1,3 +1,9 @@
+"""
+TODO add docstring
+"""
+
+# TODO change script name
+
 import atexit
 import csv
 import sqlite3
@@ -16,7 +22,7 @@ if not CSV_DATA_DIR.exists():
         "Stopping the script.",
         style="danger"
     )
-    exit(1)
+    exit(1) # TODO document exit code
 
 CSV_FILES       = list(CSV_DATA_DIR.glob("*.csv"))
 CSV_FILES.sort()
@@ -27,7 +33,7 @@ if len(CSV_FILES) == 0:
         "Stopping the script.",
         style="danger"
     )
-    exit(2)
+    exit(2) # TODO document exit code
 
 DB_FILE         = ROOT_DIR / "JoSAA-OR-CR.db"
 DB_SCHEMA_FILE  = ROOT_DIR / "schema.sql"
@@ -49,7 +55,7 @@ if not DB_SCHEMA_FILE.exists():
         "Stopping the script.",
         style="danger"
     )
-    exit(2)
+    exit(2) # TODO document exit code
 
 # Connecting to the database
 cxn = sqlite3.connect(DB_FILE)
@@ -107,6 +113,10 @@ cxn.commit()
 row_count_in_list: int = len(full_csv_data)
 row_count_in_db:   int = cur.execute('''SELECT COUNT(*) FROM JoSAA_OR_CR''').fetchone()[0]
 
+# TODO this needs to be cleaned up. this is not expected to run at all,
+#  since the user has most probably already run the script that ensures
+#  the parser will succeed. I had simply copy-pasted it from that script
+#  for uh god knows what reasons
 if row_count_in_list != row_count_in_db:
     console.print(
         "Something went wrong.\n"
