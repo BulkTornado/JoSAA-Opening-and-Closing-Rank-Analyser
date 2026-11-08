@@ -18,6 +18,7 @@ if not CSV_DATA_DIR.exists():
     console_err.print("Stopping the script.")
     exit(1)
 
+# TODO implement proper YEAR input validation
 YEAR = int(input("Year: "))
 
 # CSV_FILES       = list(CSV_DATA_DIR.glob(f"*{YEAR}*.csv"))
