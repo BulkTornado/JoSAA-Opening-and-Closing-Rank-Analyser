@@ -7,15 +7,18 @@ import csv
 import re
 from pathlib import Path
 
-from console import console, console_err
+from console import console
 
 ROOT_DIR = Path().cwd()
 
 CSV_DATA_DIR = ROOT_DIR / "data"
 
 if not CSV_DATA_DIR.exists():
-    console_err.print("Not running from root of project.")
-    console_err.print("Stopping the script.")
+    console.print(
+        "Not running from root of project.\n"
+        "Stopping the script.",
+        style="danger"
+    )
     exit(1)
 
 # TODO implement proper YEAR input validation
@@ -28,8 +31,11 @@ CSV_FILES       = sorted(
 )
 
 if len(CSV_FILES) == 0:
-    console_err.print("No CSV files found.")
-    console_err.print("Stopping the script.")
+    console.print(
+        "No CSV files found.\n"
+        "Stopping the script.",
+        style="danger"
+    )
     exit(2)
 
 # matches digits followed by P at end
@@ -68,5 +74,5 @@ for file in CSV_FILES:
 console.print(
     "Script finished running. Please use git status or directly run the python script"
     "JoSAA_Seat_Allotment_OR_CR_Result_parser.py in src to check if the script worked or not.",
-    style="bold green"
+    style="success"
 )
