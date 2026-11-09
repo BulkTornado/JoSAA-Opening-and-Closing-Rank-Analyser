@@ -36,6 +36,22 @@ share/python-wheels/
 *.egg
 MANIFEST
 
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py.cover
+*.lcov
+.hypothesis/
+.pytest_cache/
+cover/
+
 # Environments
 .env
 .envrc
@@ -54,7 +70,7 @@ venv.bak/
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # Disable all .idea config
-.idea/*
+.idea/
 
 # User-specific stuff
 # .idea/**/workspace.xml
